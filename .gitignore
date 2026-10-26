@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+*venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Local caches and generated evaluation artifacts
+.llm_cache/
+eval_cache.json
+evaluation_results.txt
+evaluation_report_*.txt
+
+# Intermediate extraction output
+output.txt
+text.json
+tables_mapped.json
+
+# Manuals are user-provided and may be copyrighted
+manuals/*.pdf
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/

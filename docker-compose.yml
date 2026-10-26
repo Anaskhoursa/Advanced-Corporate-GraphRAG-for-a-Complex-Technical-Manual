@@ -1,0 +1,102 @@
+# docker-compose.yml
+services:
+
+  # ------------------------------------------------------------------
+  # Qdrant — vector store (dense + BM25 sparse)
+  # ------------------------------------------------------------------
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: graphrag_qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"   # REST
+      - "6334:6334"   # gRPC
+    volumes:
+      - qdrant_data:/qdrant/storage
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c ':> /dev/tcp/127.0.0.1/6333' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # ------------------------------------------------------------------
+  # Neo4j — knowledge graph
+  # ------------------------------------------------------------------
+  neo4j:
+    image: neo4j:5-community
+    container_name: graphrag_neo4j
+    restart: unless-stopped
+    ports:
+      - "7474:7474"   # Browser
+      - "7687:7687"   # Bolt
+    environment:
+      NEO4J_AUTH: "${NEO4J_USER}/${NEO4J_PASSWORD}"
+      NEO4J_server_memory_heap_initial__size: "512m"
+      NEO4J_server_memory_heap_max__size: "1G"
+      NEO4J_server_memory_pagecache_size: "512m"
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:7474 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+
+  # ------------------------------------------------------------------
+  # One-shot bootstrap: ingest JSON -> Qdrant + Neo4j
+  # Runs only when you invoke the "bootstrap" profile.
+  # ------------------------------------------------------------------
+  bootstrap:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: graphrag_bootstrap
+    profiles: ["bootstrap"]
+    depends_on:
+      qdrant:
+        condition: service_healthy
+      neo4j:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      # Override the URI to point at the Compose service, not localhost
+      QDRANT_URL: "http://qdrant:6333"
+      NEO4J_URI:  "bolt://neo4j:7687"
+    command: >
+      bash -lc "
+        echo '--- Ingesting chunks into Qdrant ---' &&
+        python index_qdrant.py &&
+        echo '--- Ingesting entities/relations into Neo4j ---' &&
+        python import_neo4j.py &&
+        echo '--- Bootstrap complete ---'
+      "
+
+  # ------------------------------------------------------------------
+  # Runtime app: interactive assistant
+  # ------------------------------------------------------------------
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: graphrag_app
+    restart: unless-stopped
+    depends_on:
+      qdrant:
+        condition: service_healthy
+      neo4j:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      QDRANT_URL: "http://qdrant:6333"
+      NEO4J_URI:  "bolt://neo4j:7687"
+    stdin_open: true      # keep STDIN open for the REPL
+    tty: true             # allocate a pseudo-TTY for the REPL
+    command: ["python", "graphagent.py"]
+
+volumes:
+  qdrant_data:
+  neo4j_data:
+  neo4j_logs:

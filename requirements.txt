@@ -1,0 +1,22 @@
+# --- Retrieval / embedding ---
+qdrant-client>=1.9,<2.0
+sentence-transformers>=3.0,<4.0
+fastembed>=0.3,<0.5
+numpy>=1.26,<3.0
+
+# --- Graph ---
+neo4j>=5.20,<6.0
+
+# --- LLM ---
+groq>=0.9,<1.0
+
+# --- Orchestration ---
+langgraph>=0.2,<0.4
+langgraph-checkpoint>=1.0,<3.0
+
+# --- Utilities ---
+tqdm>=4.66,<5.0
+
+# PDF processing and local environment configuration
+pdfplumber>=0.11,<1.0
+python-dotenv>=1.0,<2.0

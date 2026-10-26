@@ -1,0 +1,24 @@
+# Secrets and local files
+.env
+.env.*
+!.env.example
+.git/
+.gitignore
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.llm_cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Source manuals should be mounted/provided locally, not baked into image
+manuals/*.pdf
+
+# Documentation does not affect the runtime image
+*.md
+.DS_Store

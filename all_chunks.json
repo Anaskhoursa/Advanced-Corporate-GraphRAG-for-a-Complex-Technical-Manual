@@ -1,0 +1,4365 @@
+[
+  {
+    "id": "0",
+    "title": "Front Matter",
+    "header": {
+      "section": null,
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "Front Matter"
+    },
+    "page_start": 1,
+    "page_end": 3,
+    "content": "Installation, Operation, and\nMaintenance Manual\n95-0056-0000_3.0\nHL series\nGodwin Dri-Prime® Pumps\nTable of Contents\nTable of Contents\n1 Introduction and Safety........................................................................................................4\n1.1 Introduction....................................................................................................................4\n1.2 Safety terminology and symbols....................................................................................4\n1.3 User safety....................................................................................................................5\n1.4 Protecting the environment............................................................................................5\n1.5 Battery safety and disposal...........................................................................................5\n1.6 Spare parts....................................................................................................................6\n2 Transportation and Storage.................................................................................................7\n2.1 Examine the unit............................................................................................................7\n2.2 Transportation guidelines..............................................................................................7\n2.2.1 Precautions.............................................................................................................7\n2.2.2 Connect the trailer to the towing vehicle.................................................................7\n2.2.3 Disconnection from the towing vehicle....................................................................8\n2.2.4 Fasten the unit........................................................................................................8\n2.2.5 Lifting......................................................................................................................9\n2.3 Storage guidelines.......................................................................................................10\n2.3.1 Short-term storage................................................................................................11\n2.3.2 Long-term storage.................................................................................................11\n3 Product Description............................................................................................................12\n3.1 General description.....................................................................................................12\n3.1.1 California proposition 65.......................................................................................12\n3.2 Operation specifications..............................................................................................13\n3.3 Nameplates.................................................................................................................14\n4 Installation..........................................................................................................................16\n4.1 Pre-Installation.............................................................................................................16\n4.1.1 Pump location guidelines......................................................................................16\n4.1.2 Check fluid levels..................................................................................................16\n4.1.3 Vacuum pad test...................................................................................................17\n4.2 Piping checklists..........................................................................................................18\n4.2.1 General piping checklist........................................................................................18\n4.2.2 Suction-piping checklist........................................................................................19\n4.2.3 Discharge piping checklist....................................................................................20\n4.2.4 Final piping checklist.............................................................................................21\n4.3 Permanent installation for skid mounted units.............................................................21\n4.3.1 Prepare the skid....................................................................................................21\n4.3.2 Requirements for foundation and anchor bolts.....................................................22\n4.3.3 Place the skid........................................................................................................23\n4.3.4 Fabricate the grout forms......................................................................................23\n4.3.5 Pour the grout.......................................................................................................24\n4.4 Pump-to-driver alignment............................................................................................25\n4.4.1 Alignment checks..................................................................................................25\n4.4.2 Alignment measurement guidelines......................................................................26\n4.4.3 Attach the dial indicators for alignment.................................................................27\n4.4.4 Pump-to-driver alignment instructions..................................................................27\n5 Commissioning, Startup, Operation, and Shutdown..........................................................29\n5.1 Preparation for startup.................................................................................................29\nTable of Contents\n5.1.1 Heavily contaminated liquid..................................................................................29\n5.1.2 Operate the unit with the system condition of flooded suction..............................30\n5.1.3 Bearing lubrication................................................................................................30\n5.1.4 Mechanical seal coolant........................................................................................32\n5.2 Pump operation precautions........................................................................................33\n5.3 Start the pump.............................................................................................................34\n5.4 Shut down the pump....................................................................................................34\n6 Maintenance.......................................................................................................................35\n6.1 Routine maintenance precautions...............................................................................35\n6.2 Daily maintenance.......................................................................................................35\n6.2.1 Engine maintenance.............................................................................................35\n6.2.2 Pump maintenance...............................................................................................36\n6.2.3 Acoustic enclosure maintenance..........................................................................36\n6.2.4 Air compressor maintenance................................................................................36\n6.2.5 Vacuum pump maintenance.................................................................................36\n6.2.6 Gearbox maintenance...........................................................................................36\n6.2.7 Ejector silencer maintenance................................................................................36\n6.3 After the first 100 hours...............................................................................................36\n6.3.1 Air compressor maintenance................................................................................36\n6.4 After the first 200 hours...............................................................................................37\n6.4.1 Gearbox maintenance...........................................................................................37\n6.5 250 hour maintenance.................................................................................................37\n6.5.1 Pump maintenance...............................................................................................37\n6.5.2 Engine maintenance.............................................................................................37\n6.5.3 Motor maintenance...............................................................................................38\n6.5.4 Air compressor maintenance................................................................................38\n6.5.5 Vacuum pump maintenance.................................................................................38\n6.6 500 hour maintenance.................................................................................................39\n6.6.1 Air compressor......................................................................................................39\n6.6.2 Vacuum pump maintenance.................................................................................39\n6.7 1000 hour maintenance...............................................................................................39\n6.7.1 Air compressor......................................................................................................39\n6.7.2 Vacuum pump maintenance.................................................................................39\n6.7.3 Gearbox maintenance...........................................................................................39\n6.8 2000 hour maintenance...............................................................................................40\n6.8.1 Air compressor......................................................................................................40\n6.9 5000 hour maintenance...............................................................................................40\n6.9.1 Pump maintenance...............................................................................................40\n6.10 Trailer maintenance...................................................................................................40\n6.10.1 Before each journey............................................................................................40\n6.10.2 After every 500 miles..........................................................................................40\n6.10.3 After every 6000 miles........................................................................................41\n6.10.4 After every 12000 miles......................................................................................41\n6.10.5 After every 24000 miles......................................................................................41\n7 Troubleshooting.................................................................................................................42\n7.1 Troubleshooting precautions.......................................................................................42\n7.2 Troubleshooting - Pump..............................................................................................42\n7.3 Troubleshooting - Driver..............................................................................................46\n7.4 Troubleshooting - Trailer.............................................................................................46\n8 Technical Reference..........................................................................................................49\n8.1 Designations, sizes, and capacities.............................................................................49\n8.2 Coolants and lubricants...............................................................................................50\n8.3 Torque values..............................................................................................................51\n8.4 Belt tensioning.............................................................................................................52\nTable of Contents\n8.4.1 Force and deflection method................................................................................52\n8.4.2 Belt frequency method..........................................................................................53\n8.4.3 Belt tension values................................................................................................53\n8.5 Impeller to wear plate clearance..................................................................................53\n--- SURROUNDING TEXT ---",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "1",
+    "title": "Introduction and Safety",
+    "header": {
+      "section": "1",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "1 Introduction and Safety"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "1.1",
+    "title": "Introduction",
+    "header": {
+      "section": "1",
+      "subsection": "1.1",
+      "parent": "1",
+      "breadcrumb": "1 Introduction and Safety -> 1.1 Introduction"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "content": "Purpose of the manual\nThe purpose of this manual is to provide the necessary information for working with the unit.\nRead this manual carefully before starting work.\nRead and keep the manual\nSave this manual for future reference, and keep it readily available at the location of the unit.\nIntended use",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "Operating, installing, or maintaining the unit in any way that is not covered in this manual could cause death, serious personal injury, or damage to the equipment and the surroundings. This includes any modification to the equipment or use of parts not provided by Xylem. If there is a question regarding the intended use of the equipment, please contact a Xylem representative before proceeding."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "1.2",
+    "title": "Safety terminology and symbols",
+    "header": {
+      "section": "1",
+      "subsection": "1.2",
+      "parent": "1",
+      "breadcrumb": "1 Introduction and Safety -> 1.2 Safety terminology and symbols"
+    },
+    "page_start": 4,
+    "page_end": 4,
+    "content": "About safety messages\nIt is extremely important that you read, understand, and follow the safety messages and\nregulations carefully before handling the product. They are published to help prevent these\nhazards:\n• Personal accidents and health problems\n• Damage to the product and its surroundings\n• Product malfunction\nHazard levels\nSpecial symbols\nSome hazard categories have specific symbols, as shown in the following table.",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_6",
+        "ordinal": 0,
+        "table": [
+          [
+            "Hazard level",
+            "Indication"
+          ],
+          [
+            "DANGER:",
+            "A hazardous situation which, if not avoided, will\nresult in death or serious injury"
+          ],
+          [
+            "WARNING:",
+            "A hazardous situation which, if not avoided, could\nresult in death or serious injury"
+          ],
+          [
+            "CAUTION:",
+            "A hazardous situation which, if not avoided, could\nresult in minor or moderate injury"
+          ],
+          [
+            "NOTICE:",
+            "Notices are used when there is a risk of equipment\ndamage or decreased performance, but not\npersonal injury."
+          ]
+        ]
+      },
+      {
+        "page": "page_7",
+        "ordinal": 0,
+        "table": [
+          [
+            "Electrical hazard",
+            "Magnetic fields hazard"
+          ],
+          [
+            "Electrical Hazard:",
+            "CAUTION:"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "title": "User safety",
+    "header": {
+      "section": "1",
+      "subsection": "1.3",
+      "parent": "1",
+      "breadcrumb": "1 Introduction and Safety -> 1.3 User safety"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "content": "All regulations, codes, and health and safety directives must be observed.\nThe site\n• Observe lockout/tagout procedures before starting work on the product, such as\ntransportation, installation, maintenance, or service.\n• Pay attention to the risks presented by gas and vapors in the work area.\n• Always be aware of the area surrounding the equipment, and any hazards posed by the\nsite or nearby equipment.\nQualified personnel\nThis product must be installed, operated, and maintained by qualified personnel only.\nProtective equipment and safety devices\n• Use personal protective equipment as needed. Examples of personal protective\nequipment include, but are not limited to, hard hats, safety goggles, protective gloves and\nshoes, and breathing equipment.\n• Make sure that all safety features on the product are functioning and in use at all times\nwhen the unit is being operated.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "1.4",
+    "title": "Protecting the environment",
+    "header": {
+      "section": "1",
+      "subsection": "1.4",
+      "parent": "1",
+      "breadcrumb": "1 Introduction and Safety -> 1.4 Protecting the environment"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "content": "Emissions and waste disposal\nObserve the local regulations and codes regarding:\n• Reporting of emissions to the appropriate authorities\n• Sorting, recycling and disposal of solid or liquid waste\n• Clean-up of spills",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "1.5",
+    "title": "Battery safety and disposal",
+    "header": {
+      "section": "1",
+      "subsection": "1.5",
+      "parent": "1",
+      "breadcrumb": "1 Introduction and Safety -> 1.5 Battery safety and disposal"
+    },
+    "page_start": 5,
+    "page_end": 5,
+    "content": "",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "Do not crush, puncture, short, or expose batteries to a temperature above +85°C (185°F). Only use batteries supplied by Xylem Inc. for replacement. Do not ingest batteries, chemical burn hazard. This product contains two replaceable lithium batteries. Consult the product instruction manual for replacement guidelines. All batteries must be disposed in an environmentally sound manner according to local regulations. Consult your local waste-management officials for information on how to safely dispose of used batteries."
+      },
+      {
+        "level": "NOTICE",
+        "text": "This product contains an external 5V DC power connector which is currently not supported. Do not connect a 5V DC power connector to this product."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "1.6",
+    "title": "Spare parts",
+    "header": {
+      "section": "1",
+      "subsection": "1.6",
+      "parent": "1",
+      "breadcrumb": "1 Introduction and Safety -> 1.6 Spare parts"
+    },
+    "page_start": 6,
+    "page_end": 6,
+    "content": "",
+    "warnings": [
+      {
+        "level": "CAUTION",
+        "text": "Only use the manufacturer’s original spare parts to replace any worn or faulty components. The use of unsuitable spare parts may cause malfunctions, damage, and injuries as well as void the warranty."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "2",
+    "title": "Transportation and Storage",
+    "header": {
+      "section": "2",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "2 Transportation and Storage"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "2.1",
+    "title": "Examine the unit",
+    "header": {
+      "section": "2",
+      "subsection": "2.1",
+      "parent": "2",
+      "breadcrumb": "2 Transportation and Storage -> 2.1 Examine the unit"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "content": "",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Remove packing materials from the product. Dispose of all packing materials in accordance with local regulations."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "To determine whether any parts have been damaged or are missing, examine the product."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "If applicable, unfasten the product by removing any screws, bolts, or straps. Use care around nails and straps."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "If there is any issue, then contact a sales representative."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "2.2",
+    "title": "Transportation guidelines",
+    "header": {
+      "section": "2",
+      "subsection": "2.2",
+      "parent": "2",
+      "breadcrumb": "2 Transportation and Storage -> 2.2 Transportation guidelines"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "2.2.1",
+    "title": "Precautions",
+    "header": {
+      "section": "2",
+      "subsection": "2.2.1",
+      "parent": "2.2",
+      "breadcrumb": "2 Transportation and Storage -> 2.2 Transportation guidelines -> 2.2.1 Precautions"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "content": "",
+    "warnings": [
+      {
+        "level": "DANGER",
+        "text": "Crush Hazard Moving parts can entangle or crush. Always disconnect and lock out power before servicing to prevent unexpected startup. Failure to do so could result in death or serious injury."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "2.2.2",
+    "title": "Connect the trailer to the towing vehicle",
+    "header": {
+      "section": "2",
+      "subsection": "2.2.2",
+      "parent": "2.2",
+      "breadcrumb": "2 Transportation and Storage -> 2.2 Transportation guidelines -> 2.2.2 Connect the trailer to the towing vehicle"
+    },
+    "page_start": 7,
+    "page_end": 7,
+    "content": "• Follow all of the highway safety laws that pertain to the tow vehicle and the trailer in your region.\n• Use the proper sized tow vehicle for the load of the trailer.\n• Ensure that the trailer is operational and maintenance steps are complete.\n1. Lifting frame\n2. Prop stand\n3. Safety chain\n4. Coupling",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Connect the coupling to the tow vehicle, ensure that the coupling has latched correctly."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "For trailers, fit the breakaway or safety chain in a loop, fastening back on itself, to a substantial integral point on the tow vehicle. Ensure that the effective length is as short as possible, but allows for articulation when the vehicle and trailer corner."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "For trailers, ensure that the weight is evenly loaded and that the nose weight remains beneath the maximum nose weight. The maximum nose weight is shown on the coupling itself."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "For trailers, connect the trailer lights using the plug and lead provided. Check that all lamps function correctly."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "For trailers, verify that the prop stands are raised after the trailer is attached to the tow vehicle."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "2.2.3",
+    "title": "Disconnection from the towing vehicle",
+    "header": {
+      "section": "2",
+      "subsection": "2.2.3",
+      "parent": "2.2",
+      "breadcrumb": "2 Transportation and Storage -> 2.2 Transportation guidelines -> 2.2.3 Disconnection from the towing vehicle"
+    },
+    "page_start": 8,
+    "page_end": 8,
+    "content": "",
+    "warnings": [
+      {
+        "level": "CAUTION",
+        "text": "Tip hazard. Make sure that the prop stands are lowered and locked in place before disconnecting trailer."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "2.2.4",
+    "title": "Fasten the unit",
+    "header": {
+      "section": "2",
+      "subsection": "2.2.4",
+      "parent": "2.2",
+      "breadcrumb": "2 Transportation and Storage -> 2.2 Transportation guidelines -> 2.2.4 Fasten the unit"
+    },
+    "page_start": 8,
+    "page_end": 8,
+    "content": "A509310SW\nFigure 1: Trailer\n--- SURROUNDING TEXT ---\nA609310SW\nFigure 2: Critically silenced enclosure",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Secure the unit with chains. If the chains are not available, then substitute straps with edge protectors. Do not place straps or chains over the top of the unit."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Inspect chains and straps for damage. If damaged, then discard and replace."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Secure the unit using appropriate tie down points on the skid."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "If the skid does not contain D-rings and fork pockets, then place chains and straps around mounting base and tie together at a common point."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "If the skid contains D-rings and fork pockets, then place chains and straps through fork pockets and D-rings."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "2.2.5",
+    "title": "Lifting",
+    "header": {
+      "section": "2",
+      "subsection": "2.2.5",
+      "parent": "2.2",
+      "breadcrumb": "2 Transportation and Storage -> 2.2 Transportation guidelines -> 2.2.5 Lifting"
+    },
+    "page_start": 9,
+    "page_end": 9,
+    "content": "Always inspect the lifting equipment and tackle before starting any work.\n\nAlways lift the unit by its designated lifting points.\nUse suitable lifting equipment and ensure that the product is properly harnessed.\nWear personal protective equipment.\nStay clear of cables and suspended loads.\n\nNever lift the unit by its cables or hose.\n\n2.2.5.1 Requirements for lifting\n\n• The lifting equipment must be in good condition and operated by authorized personnel.\n• The lifting equipment must have the lifting capacity for the complete weight of the\nassembly and its remaining pumped liquid.\n• When a crane is used, the minimum height between the lifting hook and the ground must\nbe sufficient to lift the unit straight up and down.\n\n2.2.5.2 Lift unit using a crane\n\nFigure 3: Single lift point skid\nFigure 4: Four lift point enclosure\n\n2.2.5.3 Lift using a forklift\nLift the unit from either side with the forklift.",
+    "warnings": [
+      {
+        "level": "NOTICE",
+        "text": "Never lift the unit by its cables or hose."
+      },
+      {
+        "level": "WARNING",
+        "text": "Lift and handle the product carefully, using suitable lifting equipment."
+      }
+    ],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Check that the site where the unit is placed has a clean and level surface. Stones and other debris damage the bottom structure of the unit."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Fasten a suitable lifting strap or sling to the available lifting points."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "If the unit was secured to a pallet, flatbed or other surface, then cut the transportation straps."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Lift the unit using suitable lifting equipment."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "Place the unit on firm, level ground."
+      },
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Align the forklift prongs with the fork pockets in the bottom of the base."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Insert the forklift prongs into the fork pockets."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Lift the unit and move it to its new position."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "2.3",
+    "title": "Storage guidelines",
+    "header": {
+      "section": "2",
+      "subsection": "2.3",
+      "parent": "2",
+      "breadcrumb": "2 Transportation and Storage -> 2.3 Storage guidelines"
+    },
+    "page_start": 10,
+    "page_end": 10,
+    "content": "Storage location\nThe product must be stored in a covered and dry location free from heat, dirt, and vibrations.\n\nFreezing precautions",
+    "warnings": [
+      {
+        "level": "NOTICE",
+        "text": "Protect the product against humidity, heat sources, and mechanical damage."
+      },
+      {
+        "level": "NOTICE",
+        "text": "Do not place heavy weights on the packed product."
+      },
+      {
+        "level": "NOTICE",
+        "text": "Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump and connected pipes. Failure to do so can cause liquid to freeze and damage the pump."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "2.3.1",
+    "title": "Short-term storage",
+    "header": {
+      "section": "2",
+      "subsection": "2.3.1",
+      "parent": "2.3",
+      "breadcrumb": "2 Transportation and Storage -> 2.3 Storage guidelines -> 2.3.1 Short-term storage"
+    },
+    "page_start": 11,
+    "page_end": 11,
+    "content": "Refer to the pump end and the drive unit maintenance manuals for detailed storage instructions.\n• Empty the pump of all product and clean surfaces of dirt, debris, oil, fuel, and associated matter.\n• Remove the front cover and coat the front of the wear plate and the impeller with an appropriate rust inhibitor.\n• Coat any unpainted, machined surfaces that are subjected to rust and corrosion.\nIf the pump is stored outside and subject to weather, then cover the pump and the engine with a waterproof tarpaulin.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "2.3.2",
+    "title": "Long-term storage",
+    "header": {
+      "section": "2",
+      "subsection": "2.3.2",
+      "parent": "2.3",
+      "breadcrumb": "2 Transportation and Storage -> 2.3 Storage guidelines -> 2.3.2 Long-term storage"
+    },
+    "page_start": 11,
+    "page_end": 11,
+    "content": "• Perform all of the steps that are listed in the short-term storage section.\n• Store the unit in a covered and dry location.\n• Store the unit in a location free from heat, dirt, and vibrations.\n• If an engine drives the pump, then perform the following steps:\n• Treat bearings and machined surfaces on the unit so that they are well preserved.\n--- SURROUNDING TEXT ---",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Replace the oil and the oil filter."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Service the air cleaner."
+      },
+      {
+        "level": 1,
+        "marker": "c)",
+        "text": "Drain the fuel tank and add an inhibitor."
+      },
+      {
+        "level": 1,
+        "marker": "d)",
+        "text": "Add an inhibitor to the crank case."
+      },
+      {
+        "level": 1,
+        "marker": "e)",
+        "text": "Disconnect the air intake."
+      },
+      {
+        "level": 1,
+        "marker": "f)",
+        "text": "Disconnect and remove the battery."
+      },
+      {
+        "level": 1,
+        "marker": "g)",
+        "text": "Remove the belts."
+      },
+      {
+        "level": 1,
+        "marker": "h)",
+        "text": "Coat all machined surfaces on the engine with a rust inhibitor."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "3",
+    "title": "Product Description",
+    "header": {
+      "section": "3",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "3 Product Description"
+    },
+    "page_start": 12,
+    "page_end": 12,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "3.1",
+    "title": "General description",
+    "header": {
+      "section": "3",
+      "subsection": "3.1",
+      "parent": "3",
+      "breadcrumb": "3 Product Description -> 3.1 General description"
+    },
+    "page_start": 12,
+    "page_end": 12,
+    "content": "Materials\nThe pump is made of a combination of the following materials:\n• Iron\n• Steel\n• Stainless steel\n• Aluminium\nPump drive mounting method\nThe pump has three different methods to mount it to its driver:\n• Close-coupled\n• Long-coupled (shaft-to-shaft)\n• SAE (for engine driven pumps)\nMain parts\nThis table describes the main parts of the pump.\nSuction and discharge connections\nThe suction side and discharge side of the pump have different kinds of connections\ndepending on the size of the pump. The smaller connection sizes are threaded onto the\npump. The larger connection sizes are flange mounted.",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_14",
+        "ordinal": 0,
+        "table": [
+          [
+            "Part",
+            "Description"
+          ],
+          [
+            "Pump impeller",
+            "An open impeller that is mounted to a shaft with one of the following methods:\n• Threaded to the shaft and secured with a screw and a washer\n• A spline and secured with a screw and an impeller washer"
+          ],
+          [
+            "Pump casing",
+            "The pump casing is\n• known as a volute\n• equipped with replaceable wear plates"
+          ],
+          [
+            "Driver",
+            "The pump is driven by one of the following:\n• Diesel engine\n• Electric motor"
+          ],
+          [
+            "Base",
+            "The unit is mounted to one of the following:\n• Skidbase\n• Highway trailer\n• Acoustic enclosure\n• Site trolley"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3.1.1",
+    "title": "California proposition 65",
+    "header": {
+      "section": "3",
+      "subsection": "3.1.1",
+      "parent": "3.1",
+      "breadcrumb": "3 Product Description -> 3.1 General description -> 3.1.1 California proposition 65"
+    },
+    "page_start": 12,
+    "page_end": 12,
+    "content": "",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "California Proposition 65 warning! This product contains chemicals known to the state of California to cause cancer and birth defects or other reproductive harm."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "3.2",
+    "title": "Operation specifications",
+    "header": {
+      "section": "3",
+      "subsection": "3.2",
+      "parent": "3",
+      "breadcrumb": "3 Product Description -> 3.2 Operation specifications"
+    },
+    "page_start": 13,
+    "page_end": 13,
+    "content": "Liquid characteristics\nThis table describes the liquid characteristics of the pump.\n\nMaximum pressures and soft solids handling\nThis table specifies the maximum pressures and soft solids handling of each pump model.\n\nFlanges and connections\nThis table describes the possible combinations of the flanges and the connections of the pump.\n\nConsult your local Xylem representative for operation that exceeds this temperature.",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_15",
+        "ordinal": 0,
+        "table": [
+          [
+            "Parameter",
+            "Value"
+          ],
+          [
+            "Maximum liquid temperature",
+            "80 ˚C (176 ˚F)\nConsult your local Xylem representative for\noperation that exceeds this temperature."
+          ]
+        ]
+      },
+      {
+        "page": "page_15",
+        "ordinal": 1,
+        "table": [
+          [
+            "Model",
+            "Maximum pressure",
+            "Maximum suction\npressure",
+            "Maximum soft solids\nhandling"
+          ],
+          [
+            "HL80M",
+            "9.2 bar (133 psi)",
+            "6.0 bar (87 psi)",
+            "25 mm (1.0 in)"
+          ],
+          [
+            "HL100M",
+            "11.4 bar (165 psi)",
+            "6.0 bar (87 psi)",
+            "35 mm (1.4 in)"
+          ],
+          [
+            "HL110M",
+            "18.3 bar (265 psi)",
+            "6.0 bar (87 psi)",
+            "20 mm (0.8 in)"
+          ],
+          [
+            "HL125M",
+            "13.5 bar (196 psi)",
+            "6.0 bar (87 psi)",
+            "35 mm (1.4 in)"
+          ],
+          [
+            "HL130M",
+            "18.8 bar (273 psi)",
+            "6.0 bar (87 psi)",
+            "22 mm (0.9 in)"
+          ],
+          [
+            "HL150M",
+            "15.1 bar (219 psi)",
+            "6.0 bar (87 psi)",
+            "35 mm (1.4 in)"
+          ],
+          [
+            "HL160M",
+            "18.5 bar (268 psi)",
+            "6.0 bar (87 psi)",
+            "35 mm (1.4 in)"
+          ],
+          [
+            "HL200M",
+            "11.6 bar (168 psi)",
+            "6.0 bar (87 psi)",
+            "38 mm (1.5 in)"
+          ],
+          [
+            "HL225M",
+            "11.3 bar (164 psi)",
+            "6.0 bar (87 psi)",
+            "65 mm (2.6 in)"
+          ],
+          [
+            "HL250M",
+            "12.1 bar (175 psi)",
+            "6.0 bar (87 psi)",
+            "65 mm (2.6 in)"
+          ],
+          [
+            "HL260M",
+            "14.4 bar (209 psi)",
+            "6.0 bar (87 psi)",
+            "50 mm (2.0 in)"
+          ],
+          [
+            "HL260M MK II",
+            "20 bar (290 psi)",
+            "6.0 bar (87 psi)",
+            "45 mm (1.8 in)"
+          ],
+          [
+            "HL270M",
+            "42 bar (618 psi)",
+            "6.0 bar (87 psi)",
+            "30 mm (1.2 in)"
+          ]
+        ]
+      },
+      {
+        "page": "page_15",
+        "ordinal": 2,
+        "table": [
+          [
+            "Model",
+            "Suction side",
+            "Discharge size"
+          ],
+          [
+            "HL80M",
+            "100 mm (4 in) flange",
+            "75 mm (3 in) flange"
+          ],
+          [
+            "HL100M",
+            "100 mm (4 in) flange",
+            "100 mm (4 in) flange"
+          ],
+          [
+            "HL110M",
+            "100 mm (4 in) flange",
+            "75 mm (3 in) flange"
+          ],
+          [
+            "HL125M",
+            "150 mm (6 in) flange",
+            "100 mm (4 in) flange"
+          ],
+          [
+            "HL130M",
+            "150 mm (6 in) flange",
+            "100 mm (4 in) flange"
+          ],
+          [
+            "HL150M",
+            "150 mm (6 in) flange",
+            "150 mm (6 in) flange"
+          ],
+          [
+            "HL160M",
+            "200 mm (8 in) flange",
+            "150 mm (6 in) flange"
+          ],
+          [
+            "HL200M",
+            "200 mm (8 in) flange",
+            "150 mm (6 in) flange"
+          ],
+          [
+            "HL225M",
+            "250 mm (10 in) flange",
+            "200 mm (8 in) flange"
+          ],
+          [
+            "HL250M",
+            "300 mm (12 in) flange",
+            "250 mm (10 in) flange"
+          ],
+          [
+            "HL260M",
+            "250 mm (10 in) flange",
+            "200 mm (8 in) flange"
+          ],
+          [
+            "HL260M MK II",
+            "300 mm (12 in) flange",
+            "250 mm (10 in) flange"
+          ],
+          [
+            "HL270M",
+            "300 mm (12 in) flange",
+            "250 mm (10 in) flange"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "title": "Nameplates",
+    "header": {
+      "section": "3",
+      "subsection": "3.3",
+      "parent": "3",
+      "breadcrumb": "3 Product Description -> 3.3 Nameplates"
+    },
+    "page_start": 14,
+    "page_end": 15,
+    "content": "Usage\nThese numbers located on the nameplate must be quoted in any inquiry for spares or service.\nFields and information\nEvery unit has a nameplate similar to the one shown in the illustration.\nFigure 5: Example of a pump nameplate\n--- SURROUNDING TEXT ---\nNameplate fields:\n1. Pump model\n2. Order number\n3. Unit number within order\n4. Year of order\n5. Extra information such as trimmed impeller size or customer requested information\n6. Pressure and vacuum tested\n1. Pump model\n2. Year of order\n3. Order number\n4. Unit number within order\n5. Xylem reference number\n6. Pressure and vacuum tested",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4",
+    "title": "Installation",
+    "header": {
+      "section": "4",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "4 Installation"
+    },
+    "page_start": 16,
+    "page_end": 16,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4.1",
+    "title": "Pre-Installation",
+    "header": {
+      "section": "4",
+      "subsection": "4.1",
+      "parent": "4",
+      "breadcrumb": "4 Installation -> 4.1 Pre-Installation"
+    },
+    "page_start": 16,
+    "page_end": 16,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4.1.1",
+    "title": "Pump location guidelines",
+    "header": {
+      "section": "4",
+      "subsection": "4.1.1",
+      "parent": "4.1",
+      "breadcrumb": "4 Installation -> 4.1 Pre-Installation -> 4.1.1 Pump location guidelines"
+    },
+    "page_start": 16,
+    "page_end": 16,
+    "content": "",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection."
+      },
+      {
+        "level": "WARNING",
+        "text": "Assembled units and their components are heavy. Failure to properly lift and support this equipment can result in serious physical injury and/or equipment damage. Lift equipment only at the specifically identified lifting points. Lifting devices such as eyebolts, slings, and spreaders must be rated, selected, and used for the entire load being lifted."
+      }
+    ],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_18",
+        "ordinal": 0,
+        "table": [
+          [
+            "Guideline",
+            "Explanation/comment"
+          ],
+          [
+            "Make sure that the space around the unit is\nsufficient.",
+            "This facilitates ventilation, inspection, maintenance,\nand service."
+          ],
+          [
+            "If you require lifting equipment such as a hoist or\ntackle, make sure that there is enough space above\nthe pump.",
+            "This makes it easier to properly use the lifting\nequipment and safely remove and relocate the\ncomponents to a safe location."
+          ],
+          [
+            "Protect the unit from weather and water damage\ndue to rain, flooding, and freezing temperatures.",
+            "This is applicable if nothing else is specified."
+          ],
+          [
+            "Do not install and operate the equipment in closed\nsystems unless the system is constructed with\nproperly-sized safety devices and control devices.",
+            "Acceptable devices:\n• Pressure relief valves\n• Pressure controls\n• Temperature controls\n• Flow controls\nIf the system does not include these devices,\nconsult the engineer or architect in charge before\nyou operate the pump."
+          ],
+          [
+            "Take into consideration the occurrence of unwanted\nnoise and vibration.",
+            "—"
+          ],
+          [
+            "Make sure that the unit location is on solid, level\nground.",
+            "This ensures that the unit remains stable and\nbalanced while in operation."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.1.2",
+    "title": "Check fluid levels",
+    "header": {
+      "section": "4",
+      "subsection": "4.1.2",
+      "parent": "4.1",
+      "breadcrumb": "4 Installation -> 4.1 Pre-Installation -> 4.1.2 Check fluid levels"
+    },
+    "page_start": 16,
+    "page_end": 16,
+    "content": "Ensure that the following fluids are at the correct levels before starting the pump:\n• Engine oil\n• Engine coolant\n• Pump mechanical seal coolant\n• Compressor oil, if not connected to a diesel engine\n• Engine fuel\n• Gearbox oil",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4.1.3",
+    "title": "Vacuum pad test",
+    "header": {
+      "section": "4",
+      "subsection": "4.1.3",
+      "parent": "4.1",
+      "breadcrumb": "4 Installation -> 4.1 Pre-Installation -> 4.1.3 Vacuum pad test"
+    },
+    "page_start": 17,
+    "page_end": 17,
+    "content": "Before the vacuum pad test, check: engine oil, engine coolant, mechanical seal coolant.\nFigure 8 callouts: 1. Vacuum pad gauge, 2. Drain valve of the vacuum pad.\n\n2\n1\nThe check valve is on the discharge.\nFor more information about the operating speeds, see Designations, sizes, and capacities on page 49.\nThe values must be between 20 in of mercury (0.68 bar) and 25 in of mercury (0.85 bar).\nCheck the application\n• Review the system curve information and ensure that the correct pipe size was chosen.\n• Ensure that the suction and discharge requirements for the application have not\nchanged.\n--- SURROUNDING TEXT ---\nFor example: The application was originally specified as a suction lift and horizontal open discharge, but now is a flooded suction, horizontal open discharge.",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the product to test for leakage. Pressurized air may cause parts to be propelled with force. Overpressurization can cause structural failure."
+      }
+    ],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Close the volute drain valve."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Close the drain valve on the check valve."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Start the driver and allow it to warm up while idling."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Put the vacuum pad on the pump suction flange."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "Check the gasket pad fits tightly around the edge."
+      },
+      {
+        "level": 0,
+        "marker": "6.",
+        "text": "Increase the driver speed to the operating speed."
+      },
+      {
+        "level": 0,
+        "marker": "7.",
+        "text": "Record the values of the vacuum pad gauge."
+      },
+      {
+        "level": 0,
+        "marker": "8.",
+        "text": "Open the drain valve to release the vacuum pad."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "4.2",
+    "title": "Piping checklists",
+    "header": {
+      "section": "4",
+      "subsection": "4.2",
+      "parent": "4",
+      "breadcrumb": "4 Installation -> 4.2 Piping checklists"
+    },
+    "page_start": 18,
+    "page_end": 18,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4.2.1",
+    "title": "General piping checklist",
+    "header": {
+      "section": "4",
+      "subsection": "4.2.1",
+      "parent": "4.2",
+      "breadcrumb": "4 Installation -> 4.2 Piping checklists -> 4.2.1 General piping checklist"
+    },
+    "page_start": 18,
+    "page_end": 18,
+    "content": "Precautions\n\nExample: Pipe supports",
+    "warnings": [
+      {
+        "level": "CAUTION",
+        "text": "• Never draw piping into place by using force at the flanged connections of the pump. This can impose dangerous strains on the unit and cause misalignment between the pump and driver. Pipe strain adversely affects the operation of the pump, which results in physical injury and damage to the equipment.\n• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side. This action can result in decreased performance, unexpected heat generation, and equipment damage.\n• Use pipes suited to the maximum working pressure of the pump. Failure to do so can cause the system to rupture, with the risk of injury."
+      }
+    ],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_20",
+        "ordinal": 0,
+        "table": [
+          [
+            "Check",
+            "Explanation/comment",
+            "Checked"
+          ],
+          [
+            "Check that all piping is supported\nindependently of, and lined up\nnaturally with, the pump\nconnection.",
+            "This helps to prevent:\n• Strain on the pump\n• Misalignment between the pump and the drive unit\n• Wear on the pump bearings, seal, and shafting\nSee Example section for illustrations of pipe supports.",
+            ""
+          ],
+          [
+            "Check that only necessary fittings\nare used.",
+            "This helps to minimize friction losses.",
+            ""
+          ],
+          [
+            "Make sure that all the piping\njoints and fittings are airtight.",
+            "This prevents air from entering the piping system or\nleaks that occur during operation.",
+            ""
+          ],
+          [
+            "If the pump handles corrosive\nfluids, make sure that the piping\nallows you to flush out the liquid\nbefore you remove the pump.",
+            "This protects the employees and operators.",
+            ""
+          ],
+          [
+            "If the pump handles liquids at\nelevated temperatures, make\nsure that the expansion loops\nand joints are properly installed.",
+            "This helps to prevent misalignment due to thermal\nexpansion of the piping.",
+            ""
+          ],
+          [
+            "If the pump handles corrosive\nliquids, make sure that the piping\nis correctly rated for the\napplication.",
+            "—",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.2.2",
+    "title": "Suction-piping checklist",
+    "header": {
+      "section": "4",
+      "subsection": "4.2.2",
+      "parent": "4.2",
+      "breadcrumb": "4 Installation -> 4.2 Piping checklists -> 4.2.2 Suction-piping checklist"
+    },
+    "page_start": 19,
+    "page_end": 19,
+    "content": "Performance curve reference\n\nNet positive suction head available (NPSH_A) must always exceed NPSH required (NPSH_A) / (NPSH_R) as shown on the published performance curve of the pump.\n\nLiquid source below the pump\nLiquid source above the pump",
+    "warnings": [
+      {
+        "level": "CAUTION",
+        "text": "Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side. This action can result in decreased performance, unexpected heat generation, and equipment damage."
+      }
+    ],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_21",
+        "ordinal": 1,
+        "table": [
+          [
+            "Check",
+            "Explanation/comment",
+            "Checked"
+          ],
+          [
+            "Check that the distance between the inlet flange of the\npump and the closest elbow is at least four pipe diameters.",
+            "This minimizes the risk of\ncavitation in the suction inlet of\nthe pump due to turbulence.",
+            ""
+          ],
+          [
+            "Check that elbows in general do not have sharp bends.",
+            "—",
+            ""
+          ],
+          [
+            "Check that the eccentric reducer at the suction flange of the\npump has the following properties:\n• Sloping side down\n• Horizontal side at the top",
+            "—",
+            ""
+          ],
+          [
+            "If suction strainers or suction bells are used, check that they\nare at least three times the area of the suction piping.",
+            "Suction strainers help to\nprevent clogging.",
+            ""
+          ],
+          [
+            "If more than one pump operates from the same liquid\nsource, check that separate suction-piping lines are used for\neach pump.",
+            "This recommendation helps\nyou to achieve a higher pump\nperformance.",
+            ""
+          ],
+          [
+            "If necessary, make sure that the suction piping includes a\ndrain valve and that it is correctly installed.",
+            "—",
+            ""
+          ]
+        ]
+      },
+      {
+        "page": "page_22",
+        "ordinal": 0,
+        "table": [
+          [
+            "Check",
+            "Explanation/comment",
+            "Checked"
+          ],
+          [
+            "Make sure that the suction piping is free from air\npockets.",
+            "This helps to prevent the occurrence\nof air and cavitation in the pump inlet.",
+            ""
+          ],
+          [
+            "Check that the suction piping slopes upwards from\nthe liquid source to the pump inlet.",
+            "—",
+            ""
+          ],
+          [
+            "Check that all joints are air-tight.",
+            "—",
+            ""
+          ]
+        ]
+      },
+      {
+        "page": "page_22",
+        "ordinal": 1,
+        "table": [
+          [
+            "Check",
+            "Explanation/comment",
+            "Checked"
+          ],
+          [
+            "Check that an isolation valve is installed in the\nsuction piping at a distance of at least two\ntimes the pipe diameter from the suction inlet.",
+            "This permits you to close the line during\npump inspection and maintenance.\nDo not use the isolation valve to throttle the\npump. Throttling can cause these problems:\n• Loss of priming\n• Excessive temperatures\n• Damage to the pump\n• Voiding the warranty",
+            ""
+          ],
+          [
+            "Make sure that the suction piping is free from\nair pockets.",
+            "This helps to prevent the occurrence of air\nand cavitation in the pump inlet.",
+            ""
+          ],
+          [
+            "Check that the piping is level or slopes\ndownward from the liquid source.",
+            "—",
+            ""
+          ],
+          [
+            "Make sure that the size of the entrance from\nthe supply is one or two sizes larger than the\nsuction pipe.",
+            "—",
+            ""
+          ],
+          [
+            "Make sure that the suction piping is\nadequately submerged below the surface of\nthe liquid source.",
+            "This prevents air from entering the pump\nthrough a suction vortex.",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.2.3",
+    "title": "Discharge piping checklist",
+    "header": {
+      "section": "4",
+      "subsection": "4.2.3",
+      "parent": "4.2",
+      "breadcrumb": "4 Installation -> 4.2 Piping checklists -> 4.2.3 Discharge piping checklist"
+    },
+    "page_start": 20,
+    "page_end": 20,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_22",
+        "ordinal": 2,
+        "table": [
+          [
+            "Check",
+            "Explanation/comment",
+            "Checked"
+          ],
+          [
+            "Check that an isolation valve is, when\npossible, installed in the discharge\nline.",
+            "The isolation valve is required for:\n• Regulation of flow\n• Inspection and maintenance of the pump\n• Regulation of pressure",
+            ""
+          ],
+          [
+            "Check that a check valve is installed in\nthe discharge line, between the\nisolation valve and the pump\ndischarge outlet.",
+            "The location between the isolation valve and the\npump allows inspection of the check valve.\nThe check valve facilitates priming. It is also used\nto prevent damage to the pump and seal due to\nthe back flow through the pump, when the drive\nunit is shut off.",
+            ""
+          ],
+          [
+            "If increasers are used, check that they\nare installed between the pump and\nthe isolation valve.",
+            "—",
+            ""
+          ],
+          [
+            "If quick-closing valves are installed in\nthe system, check that cushioning\ndevices are used.",
+            "This protects the pump from surges and water\nhammer.",
+            null
+          ]
+        ]
+      },
+      {
+        "page": "page_23",
+        "ordinal": 0,
+        "table": [
+          [
+            "Check",
+            "Explanation/comment",
+            "Checked"
+          ],
+          [
+            "Check that a secondary check valve is\nfitted.",
+            "A secondary check valve is required for:\n• Operation within a closed system\n• High head applications\n• Suction lifts greater than 23 ft (7 m) with a low\nslung discharge line",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.2.4",
+    "title": "Final piping checklist",
+    "header": {
+      "section": "4",
+      "subsection": "4.2.4",
+      "parent": "4.2",
+      "breadcrumb": "4 Installation -> 4.2 Piping checklists -> 4.2.4 Final piping checklist"
+    },
+    "page_start": 21,
+    "page_end": 21,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_23",
+        "ordinal": 1,
+        "table": [
+          [
+            "Check",
+            "Explanation/comment",
+            "Checked"
+          ],
+          [
+            "If electric motor driven, check that the\nshaft rotates smoothly.",
+            "Ensure that the power is disconnected.\nRotate the shaft by hand. Make sure that there is\nno rubbing that leads to excess heat generation or\nsparks.",
+            ""
+          ],
+          [
+            "To make sure that pipe strain has not\ncaused any misalignment, recheck the\nalignment.",
+            "If pipe strain exists, then correct the piping.",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "title": "Permanent installation for skid mounted units",
+    "header": {
+      "section": "4",
+      "subsection": "4.3",
+      "parent": "4",
+      "breadcrumb": "4 Installation -> 4.3 Permanent installation for skid mounted units"
+    },
+    "page_start": 21,
+    "page_end": 21,
+    "content": "Installation stages\nAfter selecting a location and installing the concrete, the permanent installation will consist of the following:\n• Preparation of the skid\n• Installation of the anchor bolts\n• Placement of the skid\n• Fabrication of the grout forms\n• Pouring of the grout\n4\n3\n2\n1 5\nFigure 6: Permanent installation components",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4.3.1",
+    "title": "Prepare the skid",
+    "header": {
+      "section": "4",
+      "subsection": "4.3.1",
+      "parent": "4.3",
+      "breadcrumb": "4 Installation -> 4.3 Permanent installation for skid mounted units -> 4.3.1 Prepare the skid"
+    },
+    "page_start": 21,
+    "page_end": 21,
+    "content": "Required tools and equipment:\n\n• Hoist equipment\n• Hand tools\n• Sandblaster",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Disconnect the coupling between the motor and the pump. Remove the motor and the pump from the skid."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Turn the skid base upside down. To remove any paint, rust, scale, or debris that may prevent adhesion, sandblast all of the surfaces that will be in contact with the grout."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Turn the skid right side up. Coat the jack bolts with anti-sieze lubricant and install. The jack bolts will extend approximately 2-1/2\" from the bottom of the skid."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "4.3.2",
+    "title": "Requirements for foundation and anchor bolts",
+    "header": {
+      "section": "4",
+      "subsection": "4.3.2",
+      "parent": "4.3",
+      "breadcrumb": "4 Installation -> 4.3 Permanent installation for skid mounted units -> 4.3.2 Requirements for foundation and anchor bolts"
+    },
+    "page_start": 22,
+    "page_end": 22,
+    "content": "Foundation\n• The foundation must be able to absorb any type of vibration and form a permanent, rigid\nsupport for the unit.\n• The foundation must be poured on a solid footing using a one-three-five mix that is thick\nenough to support the pump unit.\nAnchor bolts\n• The location and size of the anchor bolt holes are shown on the outline assembly\ndrawing for the pump unit.\n• Each bolt must be installed with a pipe sleeve around it for adjustment. The inside sleeve\ndiameter must be 2.5 to 3 times the diameter of the bolt.\n• The bolt must be held in position during the installation process.\n• The area between the bolt and sleeve must be free of concrete.\n• The anchor bolt must be long enough to project through the nut 0.25 in or 6.4 mm after\nallowance has been made for:\n– Grout\n– Height of the jack bolts\n– Skid\n– Anchor bolt nut\n--- SURROUNDING TEXT ---\n2\n1\n3\n4\n5\n6\n1. Vent hole plug\n2. Air release vent\n3. Jack bolt\n4. Nut welded to the top of the skid\n5. Pad\n6. Anchor bolt\nFigure 7: Installation of the anchor bolts",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4.3.3",
+    "title": "Place the skid",
+    "header": {
+      "section": "4",
+      "subsection": "4.3.3",
+      "parent": "4.3",
+      "breadcrumb": "4 Installation -> 4.3 Permanent installation for skid mounted units -> 4.3.3 Place the skid"
+    },
+    "page_start": 23,
+    "page_end": 23,
+    "content": "",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Use jack bolts to level skid base across the motor mounting location and pump base mounting location. Mounting surfaces elevations should be within 1/16\" as measured across the diagonals."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Replace the motor on the base plate of the skid so that the motor mounting holes are centered on the base plate motor mount holes."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Adjust the jack bolts on the skid base till the suction flange is plumb with the horizon. Place the pump on the skid base with 0.075\" of shims under all six mounting holes."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Align the motor and pump shafts in the vertical plane to a tolerance of 3 mills offset and 5 mills gap over a 10\" coupling by shimming under the motor."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "The motor holes are rechecked for being concentric with the base plate holes. This gives maximum potential for final alignment. The pump and motor shafts are then aligned horizontally to a tolerance of 3 mills offset and 5 mills gap over the coupling by moving the pump to the motor."
+      },
+      {
+        "level": 0,
+        "marker": "6.",
+        "text": "Place a machinist’s level on the suction flange of the pump."
+      },
+      {
+        "level": 0,
+        "marker": "7.",
+        "text": "Tighten the anchor bolt nuts so that the base is tight to the concrete slab."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "4.3.4",
+    "title": "Fabricate the grout forms",
+    "header": {
+      "section": "4",
+      "subsection": "4.3.4",
+      "parent": "4.3",
+      "breadcrumb": "4 Installation -> 4.3 Permanent installation for skid mounted units -> 4.3.4 Fabricate the grout forms"
+    },
+    "page_start": 23,
+    "page_end": 23,
+    "content": "Required materials:\n• Hand tools\n• 2” x 4” studs\n• 1/2” CDX Plywood\n--- SURROUNDING TEXT ---\nFigure 8: Grout form details",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Install lumber form work around the perimeter of the skid. Form work faces in contract with grout shall be coated with a form release oil or other similar ."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Form work should be secured to the concrete slab with bolts and drop in anchors to prevent movement while the grout is being placed."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "All forms should butt tightly against the perimeter of the steel skid base to prevent grout from escaping during the placement."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "4.3.5",
+    "title": "Pour the grout",
+    "header": {
+      "section": "4",
+      "subsection": "4.3.5",
+      "parent": "4.3",
+      "breadcrumb": "4 Installation -> 4.3 Permanent installation for skid mounted units -> 4.3.5 Pour the grout"
+    },
+    "page_start": 24,
+    "page_end": 24,
+    "content": "Required materials:\n• Epoxy grout\n• Hand tools\n2\n1\n3\n1. Bottom flange\n2. Top flange\n3. Concrete\nFigure 9: Grout locations\n• The temporary form work may be removed after the epoxy grout has adequately cured,\napproximately 24 hrs or per the manufacturer’s instructions.\n• The base plate should remain supported by the jack bolts for at least 48 hours. The jack\nbolts can then be removed and the anchor bolts tightened to full strength.",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Mix epoxy grout components as per the manufacturer’s instructions."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Pour grout:"
+      },
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Pour until the bottom flange is covered."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Trowel off excess where needed and allow epoxy grout to stand until firm."
+      },
+      {
+        "level": 1,
+        "marker": "c)",
+        "text": "Pour until the top flange is covered."
+      },
+      {
+        "level": 1,
+        "marker": "d)",
+        "text": "Trowel off excess where needed and allow epoxy grout to stand until firm."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "4.4",
+    "title": "Pump-to-driver alignment",
+    "header": {
+      "section": "4",
+      "subsection": "4.4",
+      "parent": "4",
+      "breadcrumb": "4 Installation -> 4.4 Pump-to-driver alignment"
+    },
+    "page_start": 25,
+    "page_end": 25,
+    "content": "Precautions",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "• Follow shaft alignment procedures in order to prevent catastrophic failure of drive components or unintended contact of rotating parts. Follow the coupling installation and operation procedures from the coupling manufacturer.\n• Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury."
+      },
+      {
+        "level": "NOTICE",
+        "text": "Proper alignment is the responsibility of the installer and the user of the unit. Check the pump-to-driver alignment before you operate the unit. Failure to do so can result in equipment damage or decreased performance."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "4.4.1",
+    "title": "Alignment checks",
+    "header": {
+      "section": "4",
+      "subsection": "4.4.1",
+      "parent": "4.4",
+      "breadcrumb": "4 Installation -> 4.4 Pump-to-driver alignment -> 4.4.1 Alignment checks"
+    },
+    "page_start": 25,
+    "page_end": 25,
+    "content": "When to perform alignment checks\nYou must perform alignment checks under these circumstances:\n• The process temperature changes.\n• The piping changes.\n• The pump has been serviced.\n• Severe vibration while the unit is in operation occurs.\n• The pump has been removed.\n• The driver has been moved.\nPumps that are close-coupled to a diesel engine do not require alignment.\nTypes of misalignment\nCheck and correct angular misalignment before correcting parallel misalignment.\nTypes of alignment checks\nInitial alignment (cold alignment) checks\nFinal alignment (hot alignment) checks",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_28",
+        "ordinal": 0,
+        "table": [
+          [
+            "Type of misalignment",
+            "Description"
+          ],
+          [
+            "Angular misalignment",
+            "Shafts have an axis concentric at the intersection but not parallel."
+          ],
+          [
+            "Parallel offset misalignment",
+            "Shafts have an axis parallel but offset."
+          ]
+        ]
+      },
+      {
+        "page": "page_28",
+        "ordinal": 1,
+        "table": [
+          [
+            "Type of check",
+            "When it is used"
+          ],
+          [
+            "Initial alignment (cold alignment)\ncheck",
+            "Prior to operation when the pump and the driver are at ambient\ntemperature."
+          ],
+          [
+            "Final alignment (hot alignment)\ncheck",
+            "After operation when the pump and the driver are at operating\ntemperature."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.4.2",
+    "title": "Alignment measurement guidelines",
+    "header": {
+      "section": "4",
+      "subsection": "4.4.2",
+      "parent": "4.4",
+      "breadcrumb": "4 Installation -> 4.4 Pump-to-driver alignment -> 4.4.2 Alignment measurement guidelines"
+    },
+    "page_start": 26,
+    "page_end": 26,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_28",
+        "ordinal": 2,
+        "table": [
+          [
+            "When",
+            "Why"
+          ],
+          [
+            "Before you grout the baseplate",
+            "This ensures that alignment can be accomplished."
+          ],
+          [
+            "After you grout the baseplate and\ntighten the anchor bolts",
+            "This ensures that no changes have occurred during the grouting\nprocess."
+          ],
+          [
+            "After you connect the piping",
+            "This ensures that pipe strains have not altered the alignment.\nIf changes have occurred, you must alter the piping to remove pipe\nstrains on the pump connections."
+          ]
+        ]
+      },
+      {
+        "page": "page_28",
+        "ordinal": 3,
+        "table": [
+          [
+            "When",
+            "Why"
+          ],
+          [
+            "After the first run",
+            "This ensures correct alignment when both the pump and the driver\nare at operating temperature."
+          ],
+          [
+            "Periodically",
+            "This follows the plant operating procedures."
+          ]
+        ]
+      },
+      {
+        "page": "page_28",
+        "ordinal": 4,
+        "table": [
+          [
+            "Guideline",
+            "Explanation"
+          ],
+          [
+            "Rotate the pump coupling half and the driver coupling half\ntogether so that the indicator rods have contact with the same\npoints on the driver coupling half.",
+            "This prevents incorrect measurement."
+          ],
+          [
+            "Move or shim only the driver in order to make adjustments.",
+            "This prevents strain on the piping\ninstallations."
+          ],
+          [
+            "Make sure that the hold-down bolts for the driver feet are tight\nwhen you take indicator measurements.",
+            "This keeps the driver stationary since\nmovement causes incorrect\nmeasurement."
+          ],
+          [
+            "Make sure that the hold-down bolts for the driver feet are loose\nbefore you make alignment corrections.",
+            "This makes it possible to move the\ndriver when you make alignment\ncorrections."
+          ],
+          [
+            "Check the alignment again after any mechanical adjustments.",
+            "This corrects any misalignments that an\nadjustment may have caused."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.4.3",
+    "title": "Attach the dial indicators for alignment",
+    "header": {
+      "section": "4",
+      "subsection": "4.4.3",
+      "parent": "4.4",
+      "breadcrumb": "4 Installation -> 4.4 Pump-to-driver alignment -> 4.4.3 Attach the dial indicators for alignment"
+    },
+    "page_start": 27,
+    "page_end": 27,
+    "content": "You must have two dial indicators in order to complete this procedure.\nP\nA\nY X",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Attach two dial indicators on the pump coupling half (X):"
+      },
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Attach one indicator (P) so that the indicator rod comes into contact with the perimeter of the driver coupling half (Y). This indicator is used to measure parallel misalignment."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Attach the other indicator (A) so that the indicator rod comes into contact with the inner end of the driver coupling half. This indicator is used to measure angular misalignment."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Rotate the pump coupling half (X) in order to check that the indicators are in contact with the driver coupling half (Y) but do not bottom out."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Adjust the indicators if necessary."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "4.4.4",
+    "title": "Pump-to-driver alignment instructions",
+    "header": {
+      "section": "4",
+      "subsection": "4.4.4",
+      "parent": "4.4",
+      "breadcrumb": "4 Installation -> 4.4 Pump-to-driver alignment -> 4.4.4 Pump-to-driver alignment instructions"
+    },
+    "page_start": 27,
+    "page_end": 28,
+    "content": "4.4.4.1 Perform parallel alignment for a horizontal correction\nBefore you start this procedure, make sure that the dial indicators are properly attached for measurement.\nA unit is in parallel alignment when the parallel indicator (P) does not vary by more than the values given on the included coupling drawing as measured at four points 90° apart at the operating temperature.\nFigure 10: Example of incorrect parallel alignment\n4.4.4.2 Perform parallel alignment for a vertical correction\nBefore you start this procedure, make sure that the dial indicators are properly attached for measurement.\nA unit is in parallel alignment when the parallel indicator (P) does not vary by more than the values given on the included coupling drawing as measured at four points 90° apart at the operating temperature.\nExample illustration given in previous section.",
+    "warnings": [
+      {
+        "level": "NOTICE",
+        "text": "Make sure to slide the driver evenly. Failure to do so can negatively affect horizontal angular correction."
+      },
+      {
+        "level": "NOTICE",
+        "text": "Use the specified permitted reading values unless specified otherwise by the coupling manufacturer. Failure to do so may result in reducing the reliability of the pump."
+      },
+      {
+        "level": "NOTICE",
+        "text": "You must use an equal amount of shims with each driver foot to prevent misalignment. Failure to do so can result in equipment damage or decreased performance."
+      }
+    ],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Set the parallel alignment indicator (P) to zero on the left side of the driver coupling half (Y), 90° from the top-center position (9 o’clock)."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Rotate the indicator through the top-center position to the right side, 180° from the start position (3 o’clock)."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Record the indicator reading."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Slide the driver carefully in the appropriate direction."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "Repeat the previous steps until the permitted reading value is achieved."
+      },
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Set the parallel alignment indicator (P) to zero at the top-center position (12 o’clock) of the driver coupling half (Y)."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Rotate the indicator to the bottom-center position (6 o’clock)."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Record the indicator reading."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Repeat the previous steps until the permitted reading value is achieved."
+      }
+    ],
+    "tables": [
+      {
+        "page": "page_29",
+        "ordinal": 0,
+        "table": [
+          [
+            "Reading value",
+            "Driver coupling half (Y) placement"
+          ],
+          [
+            "Negative",
+            "To the left of the pump coupling half (X)."
+          ],
+          [
+            "Positive",
+            "To the right of the pump coupling half (X)."
+          ]
+        ]
+      },
+      {
+        "page": "page_30",
+        "ordinal": 0,
+        "table": [
+          [
+            "Condition",
+            "Action"
+          ],
+          [
+            "Negative reading value: The pump coupling half\n(X) is lower than the driver coupling half (Y).",
+            "Remove shims of a thickness equal to half of the\nindicator reading value under each driver foot."
+          ],
+          [
+            "Positive reading value: The pump coupling half\n(X) is higher than the driver coupling half (Y).",
+            "Add shims of a thickness equal to half of the\nindicator reading value to each driver foot."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Commissioning, Startup, Operation, and Shutdown",
+    "header": {
+      "section": "5",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown"
+    },
+    "page_start": 29,
+    "page_end": 29,
+    "content": "5 Commissioning, Startup,\nOperation, and Shutdown",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "5.1",
+    "title": "Preparation for startup",
+    "header": {
+      "section": "5",
+      "subsection": "5.1",
+      "parent": "5",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.1 Preparation for startup"
+    },
+    "page_start": 29,
+    "page_end": 29,
+    "content": "",
+    "warnings": [
+      {
+        "level": "DANGER",
+        "text": "Never put your hand into the pump housing."
+      },
+      {
+        "level": "WARNING",
+        "text": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection."
+      },
+      {
+        "level": "WARNING",
+        "text": "• Failure to follow these precautions before you start the unit will lead to serious personal injury and equipment failure. • Explosion hazard. Do not short battery terminals together or damage the battery. • Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury. • Operating the pump in reverse rotation can result the contact of metal parts, heat generation, and breach of containment. • Do not operate the unit if the fuel tank has been damaged. • Do not operate the unit in an area where explosive gases are present. • Always operate the unit in a well ventilated area, preferably outdoors. • Do not refuel the engine while it is running. • Always wipe up spilled fuel and oil before operating the unit. • Drain oil and moisture residue daily or after each use from the air receiver located on the compressor. • Always inspect the conductors on electric motors before operation. • The unit and all components must be properly maintained. • Do not smoke while refilling the engine. • Do not refill an engine near open flames or sparks."
+      },
+      {
+        "level": "NOTICE",
+        "text": "• Verify the driver settings before you start any pump. • Familiarize yourself with the controls of the driver. • Flush and clear the system thoroughly to remove dirt or debris in the pipe system in order to prevent premature failure at initial startup. • Check all fluid levels."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "5.1.1",
+    "title": "Heavily contaminated liquid",
+    "header": {
+      "section": "5",
+      "subsection": "5.1.1",
+      "parent": "5.1",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.1 Preparation for startup -> 5.1.1 Heavily contaminated liquid"
+    },
+    "page_start": 29,
+    "page_end": 29,
+    "content": "If the unit is contained within an acoustic enclosure and is required to pump heavily contaminated liquid, then do the following:\n--- SURROUNDING TEXT ---",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Disconnect the ejector hose from the collection tank."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Extend the hose towards the liquid source."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "To ensure that it reaches the liquid source, add an extension to the hose."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "5.1.2",
+    "title": "Operate the unit with the system condition of flooded suction",
+    "header": {
+      "section": "5",
+      "subsection": "5.1.2",
+      "parent": "5.1",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.1 Preparation for startup -> 5.1.2 Operate the unit with the system condition of flooded suction"
+    },
+    "page_start": 30,
+    "page_end": 30,
+    "content": "Operation of a pump with the liquid source located above the pump is known as Flooded Suction. To operate this pump with the system condition of flooded suction, you must follow these steps.\n\nBlanking plates are available from your local Xylem representative.",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury."
+      }
+    ],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Isolate the driver and ensure that the unit cannot be started."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Disconnect the air line from the priming tower."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Select the following step, depending on a compressor unit or vacuum pump unit:\n– Compressor units: disconnect the compressor belt drive.\n– Vacuum pump units: disconnect the vacuum belt drive."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Select the following step, depending on a compressor unit or vacuum pump unit:\n– Compressor units: remove the complete ejector housing and replace with a plain blanking plate.\n– Vacuum pump units: remove the complete priming tower and replace with a plain blanking plate."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "Ensure that the blanking plate has a leak free seal to the pump."
+      },
+      {
+        "level": 0,
+        "marker": "6.",
+        "text": "Remove the means of isolation from the driver."
+      },
+      {
+        "level": 0,
+        "marker": "7.",
+        "text": "To start the pump with the system condition of flooded suction:"
+      },
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Close the inlet valve."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Start the driver."
+      },
+      {
+        "level": 1,
+        "marker": "c)",
+        "text": "Open the inlet valve."
+      },
+      {
+        "level": 1,
+        "marker": "d)",
+        "text": "Increase the driver speed."
+      },
+      {
+        "level": 0,
+        "marker": "8.",
+        "text": "To stop the pump with the system condition of flooded suction:"
+      },
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Decrease the driver speed."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Stop the driver."
+      },
+      {
+        "level": 1,
+        "marker": "c)",
+        "text": "Close the inlet valve."
+      }
+    ],
+    "tables": [
+      {
+        "page": "page_32",
+        "ordinal": 0,
+        "table": [
+          [
+            "Example: disconnection of a compressor",
+            "Example: disconnection of a vacuum\npump"
+          ],
+          [
+            "3\n4",
+            "3\n4"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5.1.3",
+    "title": "Bearing lubrication",
+    "header": {
+      "section": "5",
+      "subsection": "5.1.3",
+      "parent": "5.1",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.1 Preparation for startup -> 5.1.3 Bearing lubrication"
+    },
+    "page_start": 30,
+    "page_end": 31,
+    "content": "• For recommended lubricants, refer to Technical Reference on page 49.\nLocations of lubrication points (X)\nFigure 11: Locations on smaller bearing brackets\nFigure 12: Locations on larger bearing brackets",
+    "warnings": [
+      {
+        "level": "WARNING",
+        "text": "Make sure to properly lubricate the bearings. Failure to do so can result in excess heat generation, sparks, and premature failure."
+      },
+      {
+        "level": "NOTICE",
+        "text": "Be certain to check the greasing on a pump that has been out of service for a long period of time and re-grease if necessary."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "5.1.4",
+    "title": "Mechanical seal coolant",
+    "header": {
+      "section": "5",
+      "subsection": "5.1.4",
+      "parent": "5.1",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.1 Preparation for startup -> 5.1.4 Mechanical seal coolant"
+    },
+    "page_start": 32,
+    "page_end": 32,
+    "content": "All pumps are fitted with mechanical seals that require a coolant.\nFor required coolants and quantities, refer to Technical Reference on page 49.\nFill (1) and drain plug (2) locations\nFigure 13: Locations on smaller pumps\nFigure 14: Locations on larger pumps",
+    "warnings": [
+      {
+        "level": "NOTICE",
+        "text": "• Some pumps are not supplied with a seal coolant.\n• Seal oil must be changed at the first sign of contamination.\n• Seal failure caused by the lack of correct and sufficient coolant will void the warranty.\n• The level of coolant varies due to the operating conditions of the pump. A slight loss of coolant under high suction lift conditions or slight emulsification of oil under low conditions is normal.\n• Check the level of coolant in the seal housing daily."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "5.2",
+    "title": "Pump operation precautions",
+    "header": {
+      "section": "5",
+      "subsection": "5.2",
+      "parent": "5",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.2 Pump operation precautions"
+    },
+    "page_start": 33,
+    "page_end": 33,
+    "content": "General considerations\n\nOperation at reduced capacity\n\nOperation under freezing conditions",
+    "warnings": [
+      {
+        "level": "CAUTION",
+        "text": "• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side since this can result in decreased performance, unexpected heat generation, and equipment damage. \n• Do not overload the driver. Driver overload can result in unexpected heat generation and equipment damage. The driver can overload in these circumstances: \n  – The specific gravity of the pumped fluid is greater than expected. \n  – The pumped fluid exceeds the rated flow rate. \n• Make sure to operate the pump at or near the rated conditions. Failure to do so can result in pump damage from cavitation or recirculation. \n• Never operate a pump without a properly installed coupling guard. Personal injury will occur if you run the pump without a coupling guard. \n• Burn hazard. During operation various surfaces on the unit will become hot. To avoid burn injury, use heat protective gloves."
+      },
+      {
+        "level": "WARNING",
+        "text": "Never operate any pumping system with a blocked suction and discharge. Operation, even for a brief period under these conditions, can cause confined pumped fluid to overheat, which results in a violent explosion. You must take all necessary measures to avoid this condition."
+      },
+      {
+        "level": "NOTICE",
+        "text": "Avoid increased radial load. Failure to do so can cause stress on the shaft and bearings. Avoid heat build-up. Failure to do so can cause rotating parts to score or seize. Avoid cavitation. Failure to do so can cause damage to the internal surfaces of the pump."
+      },
+      {
+        "level": "NOTICE",
+        "text": "Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump and connected pipes. Failure to do so can cause liquid to freeze and damage the pump."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "5.3",
+    "title": "Start the pump",
+    "header": {
+      "section": "5",
+      "subsection": "5.3",
+      "parent": "5",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.3 Start the pump"
+    },
+    "page_start": 34,
+    "page_end": 34,
+    "content": "",
+    "warnings": [
+      {
+        "level": "CAUTION",
+        "text": "Observe the pump for vibration levels, bearing temperature, and excessive noise. If normal levels are exceeded, shut down the pump and resolve the issue.\n• Monitor all gauges to ensure that the pump is running at or near rating and that the suction screen (when used) is not clogged.\n• These instructions describe operation of the unit with the system condition of suction lift. If the unit is being operated with the system condition of flooded suction, refer to Operate the unit with the system condition of flooded suction on page 30.\n• If the unit is driven by a diesel engine, check oil level and coolant level. Refer to the engine manual.\n• If the unit is driven by an electric motor, refer to the relevant control requirements.\n• If the unit includes Field Smart Technology (FST), then refer to the FST documentation."
+      }
+    ],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "If fitted, open the suction valve."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "If fitted and depending on the system condition, fully close or partially open the discharge valve."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Start the driver. The air compressor or vacuum pump will start to prime the pump."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "If fitted, open the discharge valve until the pump reaches the desired flow."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "Check the pressure gauge to ensure the pump is operating at the correct discharge pressure."
+      },
+      {
+        "level": 0,
+        "marker": "6.",
+        "text": "If the pump fails to reach pressure:"
+      },
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Stop the driver."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Begin to troubleshoot the unit."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "5.4",
+    "title": "Shut down the pump",
+    "header": {
+      "section": "5",
+      "subsection": "5.4",
+      "parent": "5",
+      "breadcrumb": "5 Commissioning, Startup, Operation, and Shutdown -> 5.4 Shut down the pump"
+    },
+    "page_start": 34,
+    "page_end": 34,
+    "content": "",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Slowly run the driver down to stop."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Shut down and lock the driver to prevent accidental rotation."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6",
+    "title": "Maintenance",
+    "header": {
+      "section": "6",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "6 Maintenance"
+    },
+    "page_start": 35,
+    "page_end": 35,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.1",
+    "title": "Routine maintenance precautions",
+    "header": {
+      "section": "6",
+      "subsection": "6.1",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.1 Routine maintenance precautions"
+    },
+    "page_start": 35,
+    "page_end": 35,
+    "content": "",
+    "warnings": [
+      {
+        "level": "DANGER",
+        "text": "Electrical hazard sufficient to kill. Always disconnect and lock out the power before you service the unit."
+      },
+      {
+        "level": "WARNING",
+        "text": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection."
+      },
+      {
+        "level": "WARNING",
+        "text": "• Pressurized device. Make sure that the internal pressure is relieved before you continue.\n• Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the product to test for leakage. Pressurized air may cause parts to be propelled with force.\nOverpressurization can cause structural failure.\n• Make sure that the pump is isolated from the system and that pressure is relieved before you disassemble the pump, remove plugs, open vent or drain valves, or disconnect the piping.\n• Maintenance and service must be performed by skilled and qualified personnel only.\n• Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.\n• Do not smoke while refilling the engine.\n• Do not refill an engine near open flames or sparks."
+      },
+      {
+        "level": "CAUTION",
+        "text": "• Allow all system and pump components to cool before you handle them to prevent physical injury.\n• A worn pump can have components that have very sharp edges. Wear protective gloves.\n• Wear protective clothing. The edges of the parts can be sharp.\n• Read all operation and maintenance manuals supplied with the pump assembly.\n• Some engine manufacturers require a break-in period before the 250 hour service. Refer to the engine operation and maintenance manual for the details of the break-in period."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.2",
+    "title": "Daily maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance"
+    },
+    "page_start": 35,
+    "page_end": 35,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.2.1",
+    "title": "Engine maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2.1",
+      "parent": "6.2",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance -> 6.2.1 Engine maintenance"
+    },
+    "page_start": 35,
+    "page_end": 35,
+    "content": "Perform the following on a daily basis before starting or operating the engine.\n• Check the engine oil level. Verify that the level indication on the measuring stick is within the crosshatch pattern or at the “FULL” mark. If the oil level is low, then replenish with the correct engine oil.\nRefer to the engine manufacturer’s manual for the correct engine oil.\n• Check the diesel fuel for the presence of water or contamination. If water or contamination is detected, then drain and clean the fuel tank. Otherwise, check the fuel level and replenish as necessary.\n• Check the radiator coolant level after the engine has cooled.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.2.2",
+    "title": "Pump maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2.2",
+      "parent": "6.2",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance -> 6.2.2 Pump maintenance"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "• Check the coolant level in the mechanical seal. Replenish as necessary.\nFor required mechanical seal coolant, refer to Technical Reference on page 49.\n• Check the position of the volute and the discharge non-return drain valves. Verify that the\nvalves are closed before operation.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.2.3",
+    "title": "Acoustic enclosure maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2.3",
+      "parent": "6.2",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance -> 6.2.3 Acoustic enclosure maintenance"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "For units that are contained within an acoustic enclosure:\n• Check the collection tank for the build-up of sediment and clean as necessary.\n• Check the level of the bund tank. If full, then drain the bund before further operations.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.2.4",
+    "title": "Air compressor maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2.4",
+      "parent": "6.2",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance -> 6.2.4 Air compressor maintenance"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "• Check for any unusual noise or vibration.\n• Conduct a visual inspection and ensure that all guards are in place.\n• Check all pressurized components for rust, cracks, or leaks.\n• Check for lubricant leaks.\n• For air compressors utilizing an integral oil sump:\nFor recommended air compressor oil, refer to Technical Reference on page 49.\nIf any problems are discovered, then discontinue use of the equipment and consult your local Xylem representative.",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Maintain the oil level between the high and low marks on the dipstick."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Check the oil for any contamination. If contaminated, then drain and refill the compressor with an appropriate oil."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6.2.5",
+    "title": "Vacuum pump maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2.5",
+      "parent": "6.2",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance -> 6.2.5 Vacuum pump maintenance"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "• Check for the feed of oil through the sight glass.\n• Drain the moisture trap.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.2.6",
+    "title": "Gearbox maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2.6",
+      "parent": "6.2",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance -> 6.2.6 Gearbox maintenance"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "If the unit contains a gearbox, then perform the following on a daily basis before starting the unit.\n• Check the gearbox oil level. Replenish the oil as necessary.\nFor recommended gearbox oil, refer to Technical Reference on page 49.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.2.7",
+    "title": "Ejector silencer maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.2.7",
+      "parent": "6.2",
+      "breadcrumb": "6 Maintenance -> 6.2 Daily maintenance -> 6.2.7 Ejector silencer maintenance"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "If the unit is fitted with an ejector silencer, then perform the following task on a daily basis.\n• Check the ejector silencer tank for the build-up of sediment and clean as necessary.\nRefer to the attached ejector silencer drawing for part descriptions and locations.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.3",
+    "title": "After the first 100 hours",
+    "header": {
+      "section": "6",
+      "subsection": "6.3",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.3 After the first 100 hours"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.3.1",
+    "title": "Air compressor maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.3.1",
+      "parent": "6.3",
+      "breadcrumb": "6 Maintenance -> 6.3 After the first 100 hours -> 6.3.1 Air compressor maintenance"
+    },
+    "page_start": 36,
+    "page_end": 36,
+    "content": "If the unit contains an air compressor with an integral oil supply, then perform the following tasks after the first 100 hours of operation.\nFor required lubricants and quantities, refer to Technical Reference on page 49.",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "If the unit has recently been in operation, then allow the compressor to cool."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Drain the oil sump."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Fill the oil sump with a replacement lubricant."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6.4",
+    "title": "After the first 200 hours",
+    "header": {
+      "section": "6",
+      "subsection": "6.4",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.4 After the first 200 hours"
+    },
+    "page_start": 37,
+    "page_end": 37,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.4.1",
+    "title": "Gearbox maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.4.1",
+      "parent": "6.4",
+      "breadcrumb": "6 Maintenance -> 6.4 After the first 200 hours -> 6.4.1 Gearbox maintenance"
+    },
+    "page_start": 37,
+    "page_end": 37,
+    "content": "If the unit contains a gearbox, then perform the following tasks after the first 200 hours of operation.\nFor recommended gearbox oils, refer to Coolants and lubricants.",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Drain the oil from the gearbox."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Refill with the correct grade of oil."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6.5",
+    "title": "250 hour maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.5",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.5 250 hour maintenance"
+    },
+    "page_start": 37,
+    "page_end": 37,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.5.1",
+    "title": "Pump maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.5.1",
+      "parent": "6.5",
+      "breadcrumb": "6 Maintenance -> 6.5 250 hour maintenance -> 6.5.1 Pump maintenance"
+    },
+    "page_start": 37,
+    "page_end": 37,
+    "content": "",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Verify that the pump is powered off and all power is removed from the driver. If the driver is a diesel engine, then verify that the battery cables are disconnected from the battery and tied together."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Drain any product from the pump by opening the volute and discharge non-return drain valves. Drain fluids back into the source or into a spill container to be properly discarded."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Disconnect the pump from the suction and the discharge piping."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Inspect the pump and remove all dirt and debris. Visually inspect the volute from the suction flange for any obstructions and remove as needed."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "Disconnect the ejector assembly and inspect for wear and the conditions of the O-rings and the nozzle. Remove the housing and check the condition of the ball, seat, and screen. Clean the screen of any dirt or debris."
+      },
+      {
+        "level": 0,
+        "marker": "6.",
+        "text": "Remove the discharge non-return valve inspection cover. Check the condition of the valve ball, seat, and O-ring seal. Replace the damaged parts as required."
+      },
+      {
+        "level": 0,
+        "marker": "7.",
+        "text": "Charge the bearing bracket with grease. For greasing locations, refer to Bearing lubrication."
+      },
+      {
+        "level": 0,
+        "marker": "8.",
+        "text": "Connect power to the driver. If the driver is a diesel engine, then connect the ground cable to the negative battery terminal."
+      },
+      {
+        "level": 0,
+        "marker": "9.",
+        "text": "Record the serviced items and operation hours in a service log. When all of the maintenance is completed, start the pump and perform a vacuum test as described in Vacuum pad test section. Record the vacuum gauge readings in a service log as a reference."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6.5.2",
+    "title": "Engine maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.5.2",
+      "parent": "6.5",
+      "breadcrumb": "6 Maintenance -> 6.5 250 hour maintenance -> 6.5.2 Engine maintenance"
+    },
+    "page_start": 37,
+    "page_end": 37,
+    "content": "Read the engine operation and maintenance manual for more detailed information about maintenance steps, maintenance intervals, and part location.\nFor the correct oil and quantity, refer to the engine manufacturer’s manual.\nFor the correct coolant and quantity, refer to the engine manufacturer’s manual.\nFor the correct tension of the fan belt, refer to the engine manual.",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Shut down the engine."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Remove the battery cables from the terminals and tie the cables together."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Drain the engine oil and remove the old oil filter. To serve as a record for the next maintenance interval, write the current engine hour meter value on the new filter."
+      },
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "Disconnect the oil return pipe from the base of the air compressor."
+      },
+      {
+        "level": 1,
+        "marker": "b)",
+        "text": "Attach the pipe to the bottom of the sump pump."
+      },
+      {
+        "level": 1,
+        "marker": "c)",
+        "text": "Operate the pump until the engine sump is drained."
+      },
+      {
+        "level": 1,
+        "marker": "d)",
+        "text": "Reconnect the oil return pipe to the air compressor."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Check for the correct engine coolant level and concentration. Refill as necessary. Brush away any accumulated dirt and debris from the radiator coils."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "To replace the engine fuel filter, drain and remove the existing filter and install a replacement. Bleed the fuel system of air and prime the fuel pump."
+      },
+      {
+        "level": 0,
+        "marker": "6.",
+        "text": "Inspect the engine air cleaner for excessive dirt. Replace as required."
+      },
+      {
+        "level": 0,
+        "marker": "7.",
+        "text": "Inspect all of the hoses, wiring, and connections around the engine. Correct as required."
+      },
+      {
+        "level": 0,
+        "marker": "8.",
+        "text": "Check the tension and the condition of the engine fan belt. Adjust or replace as necessary."
+      },
+      {
+        "level": 0,
+        "marker": "9.",
+        "text": "Ensure that the fuel cap is secured tightly and all of the mounting bolts are tightly fastened."
+      },
+      {
+        "level": 0,
+        "marker": "10.",
+        "text": "If the unit contains a lead acid battery, then check the battery electrolyte level. Replenish to the correct level."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6.5.3",
+    "title": "Motor maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.5.3",
+      "parent": "6.5",
+      "breadcrumb": "6 Maintenance -> 6.5 250 hour maintenance -> 6.5.3 Motor maintenance"
+    },
+    "page_start": 38,
+    "page_end": 38,
+    "content": "",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Verify that the motor is powered off and all power sources are removed."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Check that the interior and exterior of the motor is free of dirt, oil, grease, water, and other matter. Oily vapor, paper pulp, textile lint, and other debris accumulate then block the motor ventilation. If the motor is not properly ventilated, then overheating occurs and causes early failure."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Check all combinations phase to phase with a continuity meter. Any variance of 10% or greater please contact your local Xylem office."
+      },
+      {
+        "level": 0,
+        "marker": "4.",
+        "text": "Measure the motor winding insulation resistance of each phase with a mega-ohm meter. Record the readings on a service log. Compare the readings of each phase. If the readings are markedly different, then contact your local Xylem representative. Mega ohm reading are taken phase to ground and should read infinite. Any reading below20MΩ please contact a licensed electrician to inspect the insulation."
+      },
+      {
+        "level": 0,
+        "marker": "5.",
+        "text": "Ensure that all are electrical connectors are in place and secured."
+      },
+      {
+        "level": 0,
+        "marker": "6.",
+        "text": "Record the serviced items and operation hours in a service log."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6.5.4",
+    "title": "Air compressor maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.5.4",
+      "parent": "6.5",
+      "breadcrumb": "6 Maintenance -> 6.5 250 hour maintenance -> 6.5.4 Air compressor maintenance"
+    },
+    "page_start": 38,
+    "page_end": 38,
+    "content": "• Inspect the compressor oil lines, air lines, and other connections.\n• Examine the compressor air filter for excessive dirt. Replace the filter as required.\n• If the compressor is external to the driver, then check the drive belt condition and tension.\nAdjust the drive belt tension or replace as necessary.\n– For tension values, refer to Technical Reference on page 49.\n– To adjust the drive belt tension, refer to Technical Reference on page 49.\n– To replace the belt refer to the appropriate service manual, available from your local\nXylem representative.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.5.5",
+    "title": "Vacuum pump maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.5.5",
+      "parent": "6.5",
+      "breadcrumb": "6 Maintenance -> 6.5 250 hour maintenance -> 6.5.5 Vacuum pump maintenance"
+    },
+    "page_start": 38,
+    "page_end": 38,
+    "content": "• Check the tension and the condition of the drive belt. Adjust the tension or replace as necessary.\n– For tension values, refer to Technical Reference on page 49.\n– To adjust the drive belt tension, refer to Technical Reference on page 49.\n– To replace the belt refer to the appropriate service manual, available from your local Xylem representative.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.6",
+    "title": "500 hour maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.6",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.6 500 hour maintenance"
+    },
+    "page_start": 39,
+    "page_end": 39,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.6.1",
+    "title": "Air compressor",
+    "header": {
+      "section": "6",
+      "subsection": "6.6.1",
+      "parent": "6.6",
+      "breadcrumb": "6 Maintenance -> 6.6 500 hour maintenance -> 6.6.1 Air compressor"
+    },
+    "page_start": 39,
+    "page_end": 39,
+    "content": "If the unit contains an air compressor with an integral oil supply, then perform the following\ntasks.\n• Change the lubricant.\nIn harsh environments, change the lubricant more frequently.\nFor required lubricants and quantities, refer to Technical Reference on page 49.\n• Change the air filter.\nIn harsh environments, change the air filter more frequently.\n• Tighten the pulley clamp screws.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.6.2",
+    "title": "Vacuum pump maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.6.2",
+      "parent": "6.6",
+      "breadcrumb": "6 Maintenance -> 6.6 500 hour maintenance -> 6.6.2 Vacuum pump maintenance"
+    },
+    "page_start": 39,
+    "page_end": 39,
+    "content": "• Check the condition of the air filter. Replace as necessary.\nTo replace the air filter refer to the appropriate service manual, available from your local\nXylem representative.\n• Change the oil cooler filter.\nTo replace the oil cooler filter, refer to the appropriate service manual, available from\nyour local Xylem representative.\n• Inspect the float assembly and associated shaft bearings for wear and damage. Replace\nas necessary.\nTo replace components of the float assembly or associated shaft bearings, refer to the\nappropriate service manual, available from your local Xylem representative.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.7",
+    "title": "1000 hour maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.7",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.7 1000 hour maintenance"
+    },
+    "page_start": 39,
+    "page_end": 39,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.7.1",
+    "title": "Air compressor",
+    "header": {
+      "section": "6",
+      "subsection": "6.7.1",
+      "parent": "6.7",
+      "breadcrumb": "6 Maintenance -> 6.7 1000 hour maintenance -> 6.7.1 Air compressor"
+    },
+    "page_start": 39,
+    "page_end": 39,
+    "content": "• Change the air filter.\nIn harsh environments, change the air filter more frequently.\n• Inspect the air compressor valves for any leakage or the build-up of carbon. Clean and\nreplace as necessary.\nRefer to the appropriate service parts lists, available from your local Xylem\nrepresentative.\n• If the air compressor contains an integral oil supply, then clean the oil sump strainer\nscreen. If necessary, clean the oil sump.\nTo remove and clean the oil sump strainer screen, refer to the air compressor manual.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.7.2",
+    "title": "Vacuum pump maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.7.2",
+      "parent": "6.7",
+      "breadcrumb": "6 Maintenance -> 6.7 1000 hour maintenance -> 6.7.2 Vacuum pump maintenance"
+    },
+    "page_start": 39,
+    "page_end": 39,
+    "content": "• Change the vacuum pump oil.\nFor recommended vacuum pump oil, refer to Technical Reference on page 49.\n• Change the exhaust smoke eliminator filter.\nIf the back pressure exceeds 3 psi above the nominal running pressure (0.5–1.0 psi), the\nfilter must be replaced, regardless of elapsed time.\nTo replace the smoke eliminator filter refer to the appropriate service manual, available\nfrom your local Xylem representative.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.7.3",
+    "title": "Gearbox maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.7.3",
+      "parent": "6.7",
+      "breadcrumb": "6 Maintenance -> 6.7 1000 hour maintenance -> 6.7.3 Gearbox maintenance"
+    },
+    "page_start": 39,
+    "page_end": 39,
+    "content": "If the unit contains a gearbox, then perform the following tasks every 1000 hours.\nFor recommended gearbox oils, refer to Technical Reference on page 49.",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Drain the oil from the gearbox."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Refill with the correct oil."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "6.8",
+    "title": "2000 hour maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.8",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.8 2000 hour maintenance"
+    },
+    "page_start": 40,
+    "page_end": 40,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.8.1",
+    "title": "Air compressor",
+    "header": {
+      "section": "6",
+      "subsection": "6.8.1",
+      "parent": "6.8",
+      "breadcrumb": "6 Maintenance -> 6.8 2000 hour maintenance -> 6.8.1 Air compressor"
+    },
+    "page_start": 40,
+    "page_end": 40,
+    "content": "If the unit contains an air compressor with an integral oil supply, then do the following tasks:\n• Inspect the compressor oil lines, air lines, and other connections.\n• Inspect the compressor relief valve for correct operation.\n• Inspect the air compressor valves for any leakage or the build-up of carbon. Clean and\nreplace as necessary.\nRefer to the appropriate service parts lists, available from your local Xylem\nrepresentative.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.9",
+    "title": "5000 hour maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.9",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.9 5000 hour maintenance"
+    },
+    "page_start": 40,
+    "page_end": 40,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.9.1",
+    "title": "Pump maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.9.1",
+      "parent": "6.9",
+      "breadcrumb": "6 Maintenance -> 6.9 5000 hour maintenance -> 6.9.1 Pump maintenance"
+    },
+    "page_start": 40,
+    "page_end": 40,
+    "content": "• Inspect the mechanical seal for excessive wear and damage. Replace as necessary.\nTo replace the mechanical seal, refer to the appropriate service manual, available from\nyour local Xylem representative.\n• Inspect the bearings for excessive wear and damage. Replace as necessary.\nTo replace the bearings, refer to the appropriate service manual, available from your\nlocal Xylem representative.\n• Check the clearances between the impeller and the front and rear wear plates. If the\ncorrect clearances cannot be achieved, then check the parts for wear and damage.\nReplace as necessary.\nFor the required clearances, refer to Impeller to wear plate clearance on page 53.\nTo check the clearance between the impeller and the wear plates, refer to the\nappropriate service manual, available from your local Xylem representative.\n• Inspect the shaft and the related seals for wear and damage. Replace as necessary.\nTo replace the shaft and the related seals, refer to the appropriate service manual,\navailable from your local Xylem representative.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.10",
+    "title": "Trailer maintenance",
+    "header": {
+      "section": "6",
+      "subsection": "6.10",
+      "parent": "6",
+      "breadcrumb": "6 Maintenance -> 6.10 Trailer maintenance"
+    },
+    "page_start": 40,
+    "page_end": 40,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.10.1",
+    "title": "Before each journey",
+    "header": {
+      "section": "6",
+      "subsection": "6.10.1",
+      "parent": "6.10",
+      "breadcrumb": "6 Maintenance -> 6.10 Trailer maintenance -> 6.10.1 Before each journey"
+    },
+    "page_start": 40,
+    "page_end": 40,
+    "content": "Perform the following tasks before each journey.\n• Check the trailer, tires, and wheels visually for any damage. Replace any damaged components.\nIf the wheel is damaged, then check the brake drum and the axles for any damage.\n• Check the wheel nuts or bolts. Tighten as necessary.\n• Check the connection to towing vehicle.\nTo check the coupling for excessive movement, move the towing eye or ball, by hand,\nbackwards and forwards, up and down. Replace any damaged parts.\n• Check tire pressures.\n• To check the operation and effectiveness of the handbrake, apply the handbrake in safe\nconditions. If the handbrake is ineffective, then adjust the braking system.\nTo adjust the braking system, refer to the appropriate service manual, available from your\nlocal Xylem representative.\n• Check the lights. Replace any inoperable bulbs and damaged lenses.\n• If fitted. ensure adequate lubrication of the 50 mm ball head.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.10.2",
+    "title": "After every 500 miles",
+    "header": {
+      "section": "6",
+      "subsection": "6.10.2",
+      "parent": "6.10",
+      "breadcrumb": "6 Maintenance -> 6.10 Trailer maintenance -> 6.10.2 After every 500 miles"
+    },
+    "page_start": 40,
+    "page_end": 40,
+    "content": "Perform the following tasks after every 500 miles traveled or every month.\n• Check the brakes. Adjust the brakes as necessary.\nTo adjust the brakes, refer to the appropriate service manual, available from your local\nXylem representative.\n• Check the wheel hubs for side play. Replace any damaged components.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.10.3",
+    "title": "After every 6000 miles",
+    "header": {
+      "section": "6",
+      "subsection": "6.10.3",
+      "parent": "6.10",
+      "breadcrumb": "6 Maintenance -> 6.10 Trailer maintenance -> 6.10.3 After every 6000 miles"
+    },
+    "page_start": 41,
+    "page_end": 41,
+    "content": "Perform the following task after every 6000 miles traveled or every six months.\n• Apply grease to the over-run coupling greasing points.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.10.4",
+    "title": "After every 12000 miles",
+    "header": {
+      "section": "6",
+      "subsection": "6.10.4",
+      "parent": "6.10",
+      "breadcrumb": "6 Maintenance -> 6.10 Trailer maintenance -> 6.10.4 After every 12000 miles"
+    },
+    "page_start": 41,
+    "page_end": 41,
+    "content": "Perform the following tasks after every 12000 miles traveled or every 12 months.\n• Check the jockey wheel and the prop stands for any damage. Replace as necessary.\n• Lubricate the jockey wheel and the prop stands.\n• Clean, inspect, and grease all joints. Replace damaged components as necessary.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "6.10.5",
+    "title": "After every 24000 miles",
+    "header": {
+      "section": "6",
+      "subsection": "6.10.5",
+      "parent": "6.10",
+      "breadcrumb": "6 Maintenance -> 6.10 Trailer maintenance -> 6.10.5 After every 24000 miles"
+    },
+    "page_start": 41,
+    "page_end": 41,
+    "content": "Perform the following task after every 24000 miles traveled or every 24 months.\n• Clean, inspect, and grease wheel hub bearings. Replace any damaged components.\n--- SURROUNDING TEXT ---",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "7",
+    "title": "Troubleshooting",
+    "header": {
+      "section": "7",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "7 Troubleshooting"
+    },
+    "page_start": 42,
+    "page_end": 42,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "7.1",
+    "title": "Troubleshooting precautions",
+    "header": {
+      "section": "7",
+      "subsection": "7.1",
+      "parent": "7",
+      "breadcrumb": "7 Troubleshooting -> 7.1 Troubleshooting precautions"
+    },
+    "page_start": 42,
+    "page_end": 42,
+    "content": "",
+    "warnings": [
+      {
+        "level": "DANGER",
+        "text": "Electrical hazard sufficient to kill. Always disconnect and lock out the power before you service the unit."
+      },
+      {
+        "level": "WARNING",
+        "text": "• Pressurized device. Make sure that the internal pressure is relieved before you continue.\n• Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the\nproduct to test for leakage. Pressurized air may cause parts to be propelled with force.\nOverpressurization can cause structural failure.\n• Make sure that the pump is isolated from the system and that pressure is relieved before\nyou disassemble the pump, remove plugs, open vent or drain valves, or disconnect the piping.\n• Maintenance and service must be performed by skilled and qualified personnel only."
+      },
+      {
+        "level": "CAUTION",
+        "text": "Allow all system and pump components to cool before you handle them to prevent physical injury.\n• Read all operation and maintenance manuals supplied with the unit."
+      }
+    ],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "7.2",
+    "title": "Troubleshooting - Pump",
+    "header": {
+      "section": "7",
+      "subsection": "7.2",
+      "parent": "7",
+      "breadcrumb": "7 Troubleshooting -> 7.2 Troubleshooting - Pump"
+    },
+    "page_start": 42,
+    "page_end": 45,
+    "content": "Table 1: Pump does not prime\n\nTable 2: Insufficient liquid is delivered\n\nTable 3: Liquid flow ceases\n\nTable 4: The unit vibrates or overheats\n\nTable 5: The mechanical seal coolant is emulsified",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_44",
+        "ordinal": 0,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The pump does not create a vacuum.",
+            "Perform a vacuum pad test. If no vacuum is\npresent, then check all possible causes for the\nfault. If an issue persists, then contact your local\nXylem representative.\nSee Vacuum pad test on page 17."
+          ],
+          [
+            "The suction lift is too great.",
+            "Check the vertical distance to the source. If greater\nthan 8.5 m (28 ft), then move the pump closer to\nthe source."
+          ],
+          [
+            "There is insufficient liquid at the suction inlet.",
+            "Check the amount of liquid at the source. If the\nsource has been drained, then move the pump to a\nnew liquid source."
+          ],
+          [
+            "The suction inlet or the strainer is blocked.",
+            "Check the inlet or the strainer for any blockage,\nclean as necessary."
+          ],
+          [
+            "The separation tank filter is blocked.\nRefer to the attached hydraulic end drawing for part\ndescriptions and locations.",
+            "Check the separation tank filter for any blockage,\nclean as necessary."
+          ],
+          [
+            "The suction line is not air-tight.",
+            "Check for leaks along the suction line. Tighten the\njoints between sections of piping and replace any\ndamaged piping."
+          ],
+          [
+            "The suction pipe has collapsed.",
+            "Check the suction line for collapsed points. If the\npipe has collapsed, then contact your local Xylem\nrepresentative for product support. Do not run the\npump."
+          ]
+        ]
+      },
+      {
+        "page": "page_45",
+        "ordinal": 0,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The non-return valve does not seat.",
+            "Check for any blockage or damage. Clear any\nblockage and replace any damaged parts."
+          ],
+          [
+            "The mechanical seal draws air into the pump.",
+            "Check for a continuous drop in the level of\nmechanical seal coolant. If the level continually\ndrops, then replace the mechanical seal. To\nreplace the mechanical seal, refer to the\nappropriate service manual available from your\nlocal Xylem representative."
+          ],
+          [
+            "Compressor units only: the ejector jet or the nozzle\nis blocked or damaged.\nRefer to the attached ejector package drawing for\npart descriptions and locations.",
+            "Check the ejector jet and nozzle for any blockage\nand damage, clear any blockage and replace any\ndamaged parts."
+          ],
+          [
+            "Compressor units only: the ejector non-return valve\nball is stuck.\nRefer to the attached ejector package drawing for\npart descriptions and locations.",
+            "Check the ejector non-return valve ball and seat for\nany blockage or damage. Clear any blockage and\nreplace any damaged parts."
+          ],
+          [
+            "Compressor units only: compressor pipe leaks air.",
+            "Check the compressor pipe for leaks. Replace as\nnecessary."
+          ],
+          [
+            "Compressor units only: compressor does not\ndeliver enough air.",
+            "Check all other possible causes. If the issue\npersists, then contact your local Xylem\nrepresentative for product support."
+          ],
+          [
+            "The compressor or the vacuum pump drive belt is\nfaulty.",
+            "Check the belt for excessive wear or damage.\nReplace as necessary.\nTo replace the drive belt, refer to the appropriate\nservice manual, available from your local Xylem\nrepresentative."
+          ],
+          [
+            "The speed of the driver is incorrect.",
+            "Compare the driver speed with the driver speed\ngiven on the pump curve. Adjust the driver to the\ncorrect speed. Do not operate the pump outside of\nthe limits that are given in Designations, sizes, and\ncapacities on page 49."
+          ]
+        ]
+      },
+      {
+        "page": "page_45",
+        "ordinal": 1,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The pump does not create a vacuum.",
+            "Perform a vacuum pad test. If no vacuum is\npresent, then check all possible causes for the\nfault. If the issue persists, then contact your local\nXylem representative.\nSee Vacuum pad test on page 17."
+          ],
+          [
+            "The suction lift is too great.",
+            "Check the vertical distance to the source. If greater\nthan 8.5 m (28 ft), then move the pump closer to\nthe source."
+          ],
+          [
+            "The suction inlet or the strainer is blocked.",
+            "Check the inlet or the strainer for any blockage,\nclean as necessary."
+          ],
+          [
+            "The separation tank filter is blocked.\nRefer to the attached hydraulic end drawing for part\ndescriptions and locations.",
+            "Check the separation tank filter for any blockage,\nclean as necessary."
+          ],
+          [
+            "The suction line is not air-tight.",
+            "Check for leaks along the suction line. Tighten the\njoints between sections of piping and replace any\ndamaged piping."
+          ],
+          [
+            "The suction pipe has collapsed.",
+            "Check the suction line for collapsed points. If the\npipe has collapsed, then contact your local Xylem\nrepresentative for product support. Do not run the\npump."
+          ]
+        ]
+      },
+      {
+        "page": "page_46",
+        "ordinal": 0,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The mechanical seal draws air into the pump.",
+            "Check for a continuous drop in the level of\nmechanical seal coolant. If the level continually\ndrops, then replace the mechanical seal. To\nreplace the mechanical seal, refer to the\nappropriate service manual available from your\nlocal Xylem representative."
+          ],
+          [
+            "The discharge head is too high.",
+            "Check the length of the discharge line. If the length\nis greater than the maximum head of the pump,\nthen reduce the length of the discharge line."
+          ],
+          [
+            "There is an obstruction in the volute or the impeller.",
+            "Remove the front cover and check the volute and\nimpeller for obstructions, clear as necessary."
+          ],
+          [
+            "The impeller is excessively worn or damaged.",
+            "Check the impeller for any damage or excessive\nwear, replace as necessary."
+          ],
+          [
+            "The delivery line leaks or is blocked.",
+            "Check the line for leaks or blockage, replace\ndamaged pipe and clear any blockage."
+          ],
+          [
+            "The speed of the driver is incorrect.",
+            "Compare the driver speed with the driver speed\ngiven on the pump curve. Adjust the driver to the\ncorrect speed. Do not operate the pump outside of\nthe limits that are given in Designations, sizes, and\ncapacities on page 49."
+          ],
+          [
+            "Electric motor driven units only: the motor rotates in\nthe incorrect direction.",
+            "Check the motor rotation against the directional\narrow on the electric motor. If the rotation is\nincorrect, reverse the polarity of the electric motor."
+          ]
+        ]
+      },
+      {
+        "page": "page_46",
+        "ordinal": 1,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The pump does not create a vacuum.",
+            "Perform a vacuum pad test. If no vacuum is\npresent, then check all possible causes for the\nfault. If the issue persists, then contact your local\nXylem representative.\nSee Vacuum pad test on page 17."
+          ],
+          [
+            "The suction lift is too great.",
+            "Check the vertical distance to the source. If greater\nthan 8.5 m (28 ft), then move the pump closer to\nthe source."
+          ],
+          [
+            "There is insufficient liquid at the suction inlet.",
+            "Check the amount of liquid at the source. If the\nsource has been drained, then move the pump to a\nnew liquid source."
+          ],
+          [
+            "The suction inlet or the strainer is blocked.",
+            "Check the inlet or the strainer for any blockage,\nclean as necessary."
+          ],
+          [
+            "The separation tank filter is blocked.\nRefer to the attached hydraulic end drawing for part\ndescriptions and locations.",
+            "Check the separation tank filter for any blockage,\nclean as necessary."
+          ],
+          [
+            "The suction line is not air-tight.",
+            "Check for leaks along the suction line. Tighten the\njoints between sections of piping and replace any\ndamaged piping."
+          ],
+          [
+            "The suction pipe has collapsed.",
+            "Check the suction line for collapsed points. If the\npipe has collapsed, then contact your local Xylem\nrepresentative for product support. Do not run the\npump."
+          ]
+        ]
+      },
+      {
+        "page": "page_47",
+        "ordinal": 0,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The mechanical seal draws air into the pump.",
+            "Check for a continuous drop in the level of\nmechanical seal coolant. If the level continually\ndrops, then replace the mechanical seal. To\nreplace the mechanical seal, refer to the\nappropriate service manual available from your\nlocal Xylem representative."
+          ],
+          [
+            "Compressor units only: the ejector jet or the nozzle\nis blocked or damaged.\nRefer to the attached ejector package drawing for\npart descriptions and locations.",
+            "Check the ejector jet and nozzle for any blockage\nand damage, clear any blockage and replace any\ndamaged parts."
+          ],
+          [
+            "There is an obstruction in the volute or the impeller.",
+            "Remove the front cover and check the volute and\nimpeller for obstructions, clear as necessary."
+          ],
+          [
+            "The impeller is excessively worn or damaged",
+            "Check the impeller for any damage or excessive\nwear, replace as necessary."
+          ],
+          [
+            "The delivery line leaks or is blocked.",
+            "Check the line for leaks or blockage, replace\ndamaged pipe and clear any blockage."
+          ]
+        ]
+      },
+      {
+        "page": "page_47",
+        "ordinal": 1,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The suction inlet or the strainer is blocked.",
+            "Check the inlet or the strainer for any blockage,\nclean as necessary."
+          ],
+          [
+            "The discharge head is too high.",
+            "Check the length of the discharge line. If the length\nis greater than the maximum head of the pump,\nthen reduce the length of the discharge line."
+          ],
+          [
+            "There is an obstruction in the volute or the impeller.",
+            "Remove the front cover and check the volute and\nimpeller for obstructions, clear as necessary."
+          ],
+          [
+            "The impeller is excessively worn or damaged.",
+            "Check the impeller for any damage or excessive\nwear, replace as necessary."
+          ],
+          [
+            "The delivery line leaks or is blocked.",
+            "Check the line for leaks or blockage, replace\ndamaged pipe and clear any blockage."
+          ],
+          [
+            "The speed of the driver is incorrect.",
+            "Compare the driver speed with the driver speed\ngiven on the pump curve. Adjust the driver to the\ncorrect speed. Do not operate the pump outside of\nthe limits that are given in Designations, sizes, and\ncapacities on page 49."
+          ],
+          [
+            "The pump exhibits cavitation",
+            "If the pump sounds like it is pumping rocks, then\nensure that the pump operates within the\nrecommended limits. If the issue persists, then\ncontact your local Xylem representative for product\nsupport."
+          ],
+          [
+            "The pump does not operate at the best efficiency\npoint.",
+            "Check the vacuum and pressure gauges. Compare\nthe readouts with the applicable pump curve. To\noperate the pump at the best efficiency point, adjust\nthe speed of the engine or the diameter of the lines.\nFor further information, contact your local Xylem\nrepresentative."
+          ],
+          [
+            "The base is not properly secured.",
+            "Check the mounting bolts, tighten as necessary."
+          ],
+          [
+            "The pump and driver are misaligned.",
+            "Check the alignment of the pump to the driver. If\nthe coupling is misaligned, then align the pump to\nthe driver. See Pump-to-driver alignment\ninstructions on page 27."
+          ],
+          [
+            "The coupling is damaged or excessively worn.",
+            "Check the coupling for any damage and excessive\nwear, replace as necessary."
+          ]
+        ]
+      },
+      {
+        "page": "page_48",
+        "ordinal": 0,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The mechanical seal is damaged or excessively\nworn.",
+            "Drain the coolant bath and check for any damage\nand excessive wear. Replace as necessary."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7.3",
+    "title": "Troubleshooting - Driver",
+    "header": {
+      "section": "7",
+      "subsection": "7.3",
+      "parent": "7",
+      "breadcrumb": "7 Troubleshooting -> 7.3 Troubleshooting - Driver"
+    },
+    "page_start": 46,
+    "page_end": 46,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_48",
+        "ordinal": 1,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "There is an obstruction in the volute or the impeller.",
+            "Remove the front cover and check the volute and\nimpeller for obstructions, clear as necessary."
+          ],
+          [
+            "The viscosity or specific gravity of the liquid is too\nhigh.",
+            "Check the viscosity or the specific gravity of the\nliquid. Compare with water. If higher than water,\nthen contact your local Xylem representative."
+          ]
+        ]
+      },
+      {
+        "page": "page_48",
+        "ordinal": 2,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The emergency stop is engaged.",
+            "Disengage the emergency stop."
+          ],
+          [
+            "Diesel engine driven units only: the level of fuel is\ntoo low.",
+            "Check the fuel gauge and fill as needed."
+          ],
+          [
+            "Diesel engine driven units only: the fuel filter is\nblocked.",
+            "Check the fuel filter for a blockage, clean or replace\nas necessary."
+          ],
+          [
+            "Diesel engine driven units only: the oil pressure is\ntoo low.",
+            "Check the oil level and add as needed. See the\nengine manual for the correct oil grade and\nquantity."
+          ],
+          [
+            "Diesel engine driven units only: the fuel check valve\nis blocked or damaged.",
+            "Inspect the fuel check valve for a blockage and\ndamage, clean or replace as necessary."
+          ],
+          [
+            "Diesel engine driven units only: the battery cables\nare disconnected.",
+            "Check the battery cable connections, reconnect if\nnecessary."
+          ],
+          [
+            "Diesel engine driven units only: there is water in the\nfuel.",
+            "Test the fuel for water. If water is present, then\ndrain the tank and refill."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7.4",
+    "title": "Troubleshooting - Trailer",
+    "header": {
+      "section": "7",
+      "subsection": "7.4",
+      "parent": "7",
+      "breadcrumb": "7 Troubleshooting -> 7.4 Troubleshooting - Trailer"
+    },
+    "page_start": 46,
+    "page_end": 48,
+    "content": "Table 8: Braking is one-sided\nTable 9: Braking occurs during mild deceleration\nTable 10: The trailer brakes snatch when braking\nTable 11: The brakes vibrate\nTable 12: The trailer brakes lock up when reversing\nTable 13: The trailer brakes are inoperative\nTable 14: The brakes quickly become hot\nTable 15: The handbrake does not hold the trailer on a slope",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_48",
+        "ordinal": 3,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The brakes are adjusted unevenly.",
+            "Check the brakes. To even the braking, adjust the\nappropriate brake or brakes. To adjust the brakes,\nrefer to the appropriate service manual available\nfrom your local Xylem representative."
+          ],
+          [
+            "The brake cable has seized.",
+            "Check the brake cable, attempt to release the\ncable. If the cable remains seized, then remove and\nreplace the cable."
+          ],
+          [
+            "The brake lining is contaminated with grease.",
+            "Check the brake lining. If the brake lining is\ncontaminated, then replace the lining."
+          ]
+        ]
+      },
+      {
+        "page": "page_49",
+        "ordinal": 0,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The coupling damper is weak or ineffective.",
+            "To check the coupling damper for weakness or\nineffectiveness, by hand, pull the coupling out and\nthen push it in. If the coupling slides back with little\nto no resistance, then replace the coupling damper.\nIf the coupling exhibits some resistance to the\nmotion, then check other possible causes."
+          ],
+          [
+            "The brakes have been over adjusted.",
+            "Check the brakes, readjust as necessary. To adjust\nthe brakes, refer to the appropriate service manual\navailable from your local Xylem representative."
+          ]
+        ]
+      },
+      {
+        "page": "page_49",
+        "ordinal": 1,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The brakes have been over adjusted.",
+            "Check the brakes, readjust as necessary. To to\nadjust the brakes, refer to the appropriate service\nmanual available from your local Xylem\nrepresentative."
+          ],
+          [
+            "The brake cable sticks.",
+            "Check the brake cable, attempt to release the\ncable. If the cable remains seized, then remove and\nreplace the cable."
+          ],
+          [
+            "The brakes have been under-adjusted",
+            "Check the brakes, readjust as necessary. To adjust\nthe brakes, refer to the appropriate service manual\navailable from your local Xylem representative."
+          ],
+          [
+            "The coupling damper is weak or ineffective.",
+            "To check the coupling damper for weakness or\nineffectiveness, by hand, pull the coupling out and\nthen push it in. If the coupling slides back with little\nto no resistance, then replace the coupling damper.\nIf the coupling exhibits some resistance to the\nmotion, then check other possible causes."
+          ],
+          [
+            "The drawtube sticks.",
+            "Check the draw tube over the full stroke. Lubricate\nif necessary."
+          ]
+        ]
+      },
+      {
+        "page": "page_49",
+        "ordinal": 2,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The brake lining is contaminated with grease.",
+            "Check the brake lining. If the brake lining is\ncontaminated, then replace the lining."
+          ],
+          [
+            "Failure of the bond between brake lining and shoe.",
+            "Inspect the shoe and replace if necessary.\nIf fitted with an emergency brake, then check the\nbrake cable and attempt to release the cable. If the\ncable remains seized, then remove and replace the\ncable."
+          ],
+          [
+            "The brake drum is distorted or cracked.",
+            "Check each brake drum for distortion and damage.\nReplace as necessary."
+          ],
+          [
+            "The brake drums have rusty patches on the braking\nsurface.",
+            "Check each brake drum for patches of rust.\nRemove the patches of rust with abrasive paper\nand clean the brake drum."
+          ]
+        ]
+      },
+      {
+        "page": "page_49",
+        "ordinal": 3,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The brakes are over-adjusted.",
+            "Check the brakes, readjust as necessary. To adjust\nthe brakes, refer to the appropriate service manual\navailable from your local Xylem representative."
+          ]
+        ]
+      },
+      {
+        "page": "page_50",
+        "ordinal": 0,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "Incompatibility between the coupling and the\nbrakes.",
+            "Check the other possible causes. If the problem\npersists, then contact your local Xylem\nrepresentative."
+          ]
+        ]
+      },
+      {
+        "page": "page_50",
+        "ordinal": 1,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The brakes are under-adjusted.",
+            "Check the brakes, readjust as necessary. To adjust\nthe brakes, refer to the appropriate service manual\navailable from your local Xylem representative."
+          ],
+          [
+            "The brake lining is contaminated with grease.",
+            "Check the brake lining. If the brake lining is\ncontaminated, then replace the lining."
+          ],
+          [
+            "The brake cable has seized.",
+            "Check the brake cable, attempt to release the\ncable. If the cable remains seized, then remove and\nreplace the cable."
+          ],
+          [
+            "The brake linings are excessively worn.",
+            "Check the brake linings for excessive wear, replace\nas necessary."
+          ]
+        ]
+      },
+      {
+        "page": "page_50",
+        "ordinal": 2,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The brakes are over-adjusted.",
+            "Check the brakes, readjust as necessary To adjust\nthe brakes, refer to the appropriate service manual\navailable from your local Xylem representative.."
+          ],
+          [
+            "The pull off strings are over stretched or damaged.",
+            "Check the springs for distortion and damage,\nreplace as necessary."
+          ],
+          [
+            "The brake cable has seized.",
+            "Check the brake cable, attempt to release the\ncable. If the cable remains seized, then remove and\nreplace the cable."
+          ]
+        ]
+      },
+      {
+        "page": "page_50",
+        "ordinal": 3,
+        "table": [
+          [
+            "Possible cause",
+            "Remedy"
+          ],
+          [
+            "The brakes are under-adjusted.",
+            "Check the brakes, readjust as necessary. To adjust\nthe brakes, refer to the appropriate service manual\navailable from your local Xylem representative."
+          ],
+          [
+            "The spring store has been incorrectly set.",
+            "Check the spring store, readjust as necessary."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Technical Reference",
+    "header": {
+      "section": "8",
+      "subsection": null,
+      "parent": null,
+      "breadcrumb": "8 Technical Reference"
+    },
+    "page_start": 49,
+    "page_end": 49,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "8.1",
+    "title": "Designations, sizes, and capacities",
+    "header": {
+      "section": "8",
+      "subsection": "8.1",
+      "parent": "8",
+      "breadcrumb": "8 Technical Reference -> 8.1 Designations, sizes, and capacities"
+    },
+    "page_start": 49,
+    "page_end": 49,
+    "content": "",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_51",
+        "ordinal": 0,
+        "table": [
+          [
+            "Pump type",
+            "Maximum\nflow",
+            "Maximum\nsoft solids\nhandling",
+            "Maximum\nworking\ntemperatur\ne",
+            "Maximum\npressure",
+            "Minimum\nspeed (rpm)",
+            "Normal\nspeed\n(rpm)",
+            "Maximum\nspeed (rpm)"
+          ],
+          [
+            "HL80M",
+            "101 m3/hr\n(450 US\ngpm)",
+            "25 mm (1.0\nin)",
+            "80 ˚C (176\n˚F)",
+            "9.2 bar (133\npsi)",
+            "1400",
+            "1800",
+            "2400"
+          ],
+          [
+            "HL100M",
+            "210 m3/hr\n(920 US\ngpm)",
+            "35 mm (1.4\nin)",
+            "80 ˚C (176\n˚F)",
+            "11.4 bar (165\npsi)",
+            "1400",
+            "1800",
+            "2200"
+          ],
+          [
+            "HL110M",
+            "114 m3/hr\n(500 US\ngpm)",
+            "20 mm (0.8\nin)",
+            "80 ˚C (176\n˚F)",
+            "18.3 bar (265\npsi)",
+            "1400",
+            "2000",
+            "2200"
+          ],
+          [
+            "HL125M",
+            "299 m3/hr\n(1320 US\ngpm)",
+            "35 mm (1.4\nin)",
+            "80 ˚C (176\n˚F)",
+            "13.5 bar (196\npsi)",
+            "1400",
+            "2000",
+            "2400"
+          ],
+          [
+            "HL130M",
+            "340 m3/hr\n(1500 US\ngpm)",
+            "22 mm (0.9\nin)",
+            "80 ˚C (176\n˚F)",
+            "18.8 bar (273\npsi)",
+            "1200",
+            "1800",
+            "2100"
+          ],
+          [
+            "HL150M",
+            "374 m3/hr\n(1650 US\ngpm)",
+            "35 mm (1.4\nin)",
+            "80 ˚C (176\n˚F)",
+            "15.1 bar (219\npsi)",
+            "1400",
+            "2000",
+            "2400"
+          ],
+          [
+            "HL160M",
+            "486 m3/hr\n(2140 US\ngpm)",
+            "35 mm\n(1.4in)",
+            "80 ˚C (176\n˚F)",
+            "18.5 bar (268\npsi)",
+            "1200",
+            "1800",
+            "2000"
+          ],
+          [
+            "HL200M",
+            "635 m3/hr\n(2800 US\ngpm)",
+            "38 mm (1.5\nin)",
+            "80 ˚C (176\n˚F)",
+            "11.6 bar (168\npsi)",
+            "1200",
+            "1600",
+            "2200"
+          ],
+          [
+            "HL225M",
+            "832 m3/hr\n(3660 US\ngpm)",
+            "65 mm (2.6\nin)",
+            "80 ˚C (176\n˚F)",
+            "11.3 bar (164\npsi)",
+            "1200",
+            "1800",
+            "2000"
+          ],
+          [
+            "HL250M",
+            "1224 m3/hr\n(5390 US\ngpm)",
+            "65 mm (2.6\nin)",
+            "80 ˚C (176\n˚F)",
+            "12.1 bar (175\npsi)",
+            "1200",
+            "1800",
+            "2000"
+          ],
+          [
+            "HL260M",
+            "1260 m3/hr\n(5550 US\ngpm)",
+            "50 mm (2.0\nin)",
+            "80 ˚C (176\n˚F)",
+            "14.4 bar (209\npsi)",
+            "1200",
+            "1600",
+            "1800"
+          ],
+          [
+            "HL260M\nMK II",
+            "1250 m3/hr\n(5500 US\ngpm)",
+            "45 mm (1.8\nin)",
+            "80 ˚C (176\n˚F)",
+            "20 bar (290\npsi)",
+            "1200",
+            "1600",
+            "1800"
+          ],
+          [
+            "HL270M",
+            "975 m3/hr\n(4290 US\ngpm)",
+            "30 mm (1.2\nin)",
+            "80 ˚C (176\n˚F)",
+            "42 bar (618\npsi)",
+            "1200",
+            "1800",
+            "2000"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8.2",
+    "title": "Coolants and lubricants",
+    "header": {
+      "section": "8",
+      "subsection": "8.2",
+      "parent": "8",
+      "breadcrumb": "8 Technical Reference -> 8.2 Coolants and lubricants"
+    },
+    "page_start": 50,
+    "page_end": 50,
+    "content": "Air compressor lubricant\nTable 16: Oil requirements for each class of compressor with an integral oil sump\nBearing lubricant\nTo grease the bearings, use one of the following:\n• Texaco Starplex EP2\n• Shell Nertia HV\n• Mobil SHC 46\n• Total Multis Complex EP2\n• Belesta XPG\n• Valvoline NLGI #2 Bearing and Chassis Lubricant\n• For HL260M units use Rocol Sapphire Premier\nMechanical seal coolant\nTable 17: Required coolant types and quantity\nVacuum pump lubricant\nTable 18: Recommended vacuum pump oil\n--- SURROUNDING TEXT ---\nGearbox lubricant\nTo lubricate the gearbox, use one of the following:\n• Mobil Mobilube HD90\n• Shell Spirax 90\n• BP Gear Oil SAE90EP\n• Esso Gear OIl GX90",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_52",
+        "ordinal": 0,
+        "table": [
+          [
+            "Compressor",
+            "Oil capacity",
+            "Required oil"
+          ],
+          [
+            "Quincy 216",
+            "1.42 L (0.375 US gal)",
+            "Quin-Cip SAE 20W/ISO 68 or\nequivalent"
+          ],
+          [
+            "Quincy 240",
+            "1.42 L (0.375 US gal)",
+            "Quin-Cip SAE 20W/ISO 68 or\nequivalent"
+          ],
+          [
+            "Quincy 270",
+            "4.50 L (1.18 US gal)",
+            "Quin-Cip SAE 20W/ISO 68 or\nequivalent"
+          ]
+        ]
+      },
+      {
+        "page": "page_52",
+        "ordinal": 1,
+        "table": [
+          [
+            "Pump model",
+            "Coolant capacity",
+            "Coolant"
+          ],
+          [
+            "HL80M",
+            "1.0 L (0.26 US gal)",
+            "Oil. Any SAE 20/20 or BIOPUS\n46 Biodegradable."
+          ],
+          [
+            "HL100M, HL125M, and HL150M",
+            "1.4 L (0.37 US gal)",
+            null
+          ],
+          [
+            "HL110M",
+            "4.7 L (1.24 US gal)",
+            null
+          ],
+          [
+            "HL200M",
+            "4.35 L (1.15 US gal)",
+            null
+          ],
+          [
+            "HL130M, HL160M, HL225M, and\nHL250M",
+            "5.5 L (1.45 US gal) initial fill. Top\nup to full mark on dipstick after\none hour of operation.",
+            null
+          ],
+          [
+            "HL260M, HL260M MK II, and\nHL270M",
+            "7.3 L (1.93 US gal)",
+            "Water and glycol mixture (50/50)"
+          ]
+        ]
+      },
+      {
+        "page": "page_52",
+        "ordinal": 2,
+        "table": [
+          [
+            "Operation environment",
+            "Recommended oil"
+          ],
+          [
+            "Ambient temperature below 0°C (32°F)",
+            "Amocon 32\nShell Turbo T Oil 32\nMobil SHC 524 or 525\nMonolec Compressor Oil 6401 or 6402\nCheveron GST 46\nPennzbell T Oil 32 or 46\nRegal Oil R & O 32"
+          ]
+        ]
+      },
+      {
+        "page": "page_53",
+        "ordinal": 0,
+        "table": [
+          [
+            "Operation environment",
+            "Recommended oil"
+          ],
+          [
+            "Ambient temperature above 0°C (32°F)",
+            "Amocon 68\nShell Turbo T Oil 68 or 100\nMobil SHC 526 or 527\nMonolec Compressor Oil 6403 or 6404\nAnderol 497\nCheveron GST 68\nPennzbell T Oil 68\nRegal Oil R & O 68"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8.3",
+    "title": "Torque values",
+    "header": {
+      "section": "8",
+      "subsection": "8.3",
+      "parent": "8",
+      "breadcrumb": "8 Technical Reference -> 8.3 Torque values"
+    },
+    "page_start": 51,
+    "page_end": 51,
+    "content": "Spanner torques\nThese tables give recommended torque values that are required to tighten general-purpose\nmetric and UNC fasteners.\nMetric fasteners\nThese figures are for metric fasteners that meet BS3692:\n• Grade 8.8 for steel bolts\n• Grade 4.6 for steel studs\n• Grade 10 for steel nuts\n• Grade A2 for all stainless steel fasteners\nUNC fasteners\nThese figures are for UNC fasteners that meet BS1768:\n• Grade S for steel bolts and studs\n• Grade 3 for steel nuts\n• Grade A2 for all stainless steel fasteners\nCorrection factors\nIf the fasteners are of a dissimilar condition to the fasteners previously mentioned, then multiply by the applicable\ncorrection factor.",
+    "warnings": [
+      {
+        "level": "NOTICE",
+        "text": "• These values are only applicable for joints that are metal to metal, without gaskets.\n• Do not use these figures for fasteners, such as impeller bolts, that have had special figures quoted."
+      }
+    ],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_53",
+        "ordinal": 1,
+        "table": [
+          [
+            "Thread Size",
+            "Torque",
+            null,
+            null
+          ],
+          [
+            null,
+            "Steel",
+            null,
+            "Stainless steel"
+          ],
+          [
+            null,
+            "Nuts and bolts Nm (lbf·ft)",
+            "Nuts on studs Nm (lbf·ft)",
+            "All Nm (lbf·ft)"
+          ],
+          [
+            "M6 x 1.0",
+            "11.7 (8.6)",
+            "4.6 (3.4)",
+            "9 (6.6)"
+          ],
+          [
+            "M8 x 1.25",
+            "28 (21)",
+            "11 (8)",
+            "22 (16)"
+          ],
+          [
+            "M10 x 1.5",
+            "56 (41)",
+            "22 (16)",
+            "44 (32)"
+          ],
+          [
+            "M12 x 1.75",
+            "98 (72)",
+            "38 (28)",
+            "76 (56)"
+          ],
+          [
+            "M16 x 2.0",
+            "244 (180)",
+            "95 (70)",
+            "187 (138)"
+          ],
+          [
+            "M20 x 2.5",
+            "476 (351)",
+            "185 (136)",
+            "364 (268)"
+          ],
+          [
+            "M24 x 3.0",
+            "822 (606)",
+            "320 (236)",
+            "629 (464)"
+          ],
+          [
+            "M30 x 3.5",
+            "1633 (1204)",
+            "633 (467)",
+            "1240 (915)"
+          ]
+        ]
+      },
+      {
+        "page": "page_54",
+        "ordinal": 0,
+        "table": [
+          [
+            "Thread Size",
+            "Torque",
+            null,
+            null
+          ],
+          [
+            null,
+            "Steel",
+            null,
+            "Stainless steel"
+          ],
+          [
+            null,
+            "Nuts and bolts Nm (lbf·ft)",
+            "Nuts on studs Nm (lbf·ft)",
+            "All Nm (lbf·ft)"
+          ],
+          [
+            "1/4” — 20",
+            "13.5 (10)",
+            "5.4 (4)",
+            "10.5 (7.7)"
+          ],
+          [
+            "5/16” — 18",
+            "27.1 (20)",
+            "10.5 (7.7)",
+            "21.0 (15.5)"
+          ],
+          [
+            "3/8” — 16",
+            "48.8 (36)",
+            "20 (14.8)",
+            "37.8 (27.9)"
+          ],
+          [
+            "7/16” — 14",
+            "74.6 (55)",
+            "30 (22.1)",
+            "57.8 (42.6)"
+          ],
+          [
+            "1/2” — 13",
+            "122 (90)",
+            "48 (35.4)",
+            "94.6 (69.8)"
+          ],
+          [
+            "5/8” — 11",
+            "273.3 (201.5)",
+            "95 (70.1)",
+            "183.9 (135.6)"
+          ],
+          [
+            "3/4” — 10",
+            "420.4 (310)",
+            "167 (123.2)",
+            "325.8 (240.3)"
+          ],
+          [
+            "7/8” — 9",
+            "664.4 (490)",
+            "266 (196.2)",
+            "514.9 (379.8)"
+          ],
+          [
+            "1” — 8",
+            "1003 (740)",
+            "401 (295.8)",
+            "777.3 (573.3)"
+          ]
+        ]
+      },
+      {
+        "page": "page_54",
+        "ordinal": 1,
+        "table": [
+          [
+            "Plating condition of the nut",
+            "Plating condition of the bolt",
+            null
+          ],
+          [
+            null,
+            "Black",
+            "Zinc"
+          ],
+          [
+            "Black",
+            "1.0",
+            "0.9"
+          ],
+          [
+            "Zinc",
+            "0.9",
+            "0.8"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8.4",
+    "title": "Belt tensioning",
+    "header": {
+      "section": "8",
+      "subsection": "8.4",
+      "parent": "8",
+      "breadcrumb": "8 Technical Reference -> 8.4 Belt tensioning"
+    },
+    "page_start": 52,
+    "page_end": 52,
+    "content": "The pulley center distance (A) controls the tension of the belt.",
+    "warnings": [],
+    "steps": [],
+    "tables": []
+  },
+  {
+    "id": "8.4.1",
+    "title": "Force and deflection method",
+    "header": {
+      "section": "8",
+      "subsection": "8.4.1",
+      "parent": "8.4",
+      "breadcrumb": "8 Technical Reference -> 8.4 Belt tensioning -> 8.4.1 Force and deflection method"
+    },
+    "page_start": 52,
+    "page_end": 52,
+    "content": "A\nd F",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "Apply the correct force (F) at the middle of the span of the belt. Ensure that the force is applied evenly across the width of the belt and at a right angle to the belt."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Measure the deflection (d)."
+      },
+      {
+        "level": 0,
+        "marker": "3.",
+        "text": "Check the measurement against the correct value given:"
+      },
+      {
+        "level": 1,
+        "marker": "a)",
+        "text": "For LK4935 air compressors with an oil feed from the engine, compare the measured value against the value that is given in Table 19: Force deflection values for belts on the LK4935 air compressor with an oil feed from the engine on page 53."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "8.4.2",
+    "title": "Belt frequency method",
+    "header": {
+      "section": "8",
+      "subsection": "8.4.2",
+      "parent": "8.4",
+      "breadcrumb": "8 Technical Reference -> 8.4 Belt tensioning -> 8.4.2 Belt frequency method"
+    },
+    "page_start": 53,
+    "page_end": 53,
+    "content": "This method is only suitable for air compressors that are fed oil from the engine.\n\nFor a new belt, use the value given in the As built column. For a belt with more than three\nhours of service, use the value that is given in the Run in column.\nThe values given are based upon an ambient temperature of 20°C (68°F).",
+    "warnings": [],
+    "steps": [
+      {
+        "level": 0,
+        "marker": "1.",
+        "text": "To measure the frequency of the belt, use a belt frequency meter."
+      },
+      {
+        "level": 0,
+        "marker": "2.",
+        "text": "Compare the measurement against the given values."
+      }
+    ],
+    "tables": []
+  },
+  {
+    "id": "8.4.3",
+    "title": "Belt tension values",
+    "header": {
+      "section": "8",
+      "subsection": "8.4.3",
+      "parent": "8.4",
+      "breadcrumb": "8 Technical Reference -> 8.4 Belt tensioning -> 8.4.3 Belt tension values"
+    },
+    "page_start": 53,
+    "page_end": 53,
+    "content": "For the belt tension values that are not covered in this section, please contact a Xylem representative.\nTable 19: Force deflection values for belts on the LK4935 air compressor with an oil feed from the engine",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_55",
+        "ordinal": 0,
+        "table": [
+          [
+            "Pump",
+            "Pulley centers (A)",
+            "Belt type",
+            "Force (F)",
+            "Deflection (d)",
+            "Frequency (Hz)",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "As built",
+            "Run in"
+          ],
+          [
+            "HL80M",
+            "333.23 mm (13.12 in)",
+            "HTD",
+            "49 N (11.02 lb f)",
+            "6.7 mm (0.26 in)",
+            "75",
+            "70 — 65"
+          ],
+          [
+            "HL100M\nHL110M\nHL125M\nHL150M\nHL200M",
+            "401.24 mm (15.8 in)",
+            "HTD",
+            "26.48 N (5.95 lb f)",
+            "8 mm (0.32 in)",
+            "40",
+            "38 — 33"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8.5",
+    "title": "Impeller to wear plate clearance",
+    "header": {
+      "section": "8",
+      "subsection": "8.5",
+      "parent": "8",
+      "breadcrumb": "8 Technical Reference -> 8.5 Impeller to wear plate clearance"
+    },
+    "page_start": 53,
+    "page_end": 53,
+    "content": "Table 20: Required clearances between the impeller and the front and rear wear plates",
+    "warnings": [],
+    "steps": [],
+    "tables": [
+      {
+        "page": "page_55",
+        "ordinal": 1,
+        "table": [
+          [
+            "Pump model",
+            "Clearance between the impeller and the\nfront wear plate",
+            "Clearance between the impeller and the\nrear wear plate"
+          ],
+          [
+            "HL80M",
+            "• Cast iron, cast steel, or Hard-Iron wear plate and impeller: 0.500 mm to 0.625 mm\n(0.020 in to 0.025 in)\n• Stainless steel wear plate and impeller: 0.625 mm to 0.762 mm (0.025 in to\n0.030 in)",
+            null
+          ],
+          [
+            "HL100M",
+            null,
+            null
+          ],
+          [
+            "HL110M",
+            null,
+            null
+          ],
+          [
+            "HL125M",
+            null,
+            null
+          ],
+          [
+            "HL130M",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "page": "page_56",
+        "ordinal": 0,
+        "table": [
+          [
+            "Pump model",
+            "Clearance between the impeller and the\nfront wear plate",
+            "Clearance between the impeller and the\nrear wear plate"
+          ],
+          [
+            "HL150M",
+            "",
+            null
+          ],
+          [
+            "HL160M",
+            null,
+            null
+          ],
+          [
+            "HL200M",
+            null,
+            null
+          ],
+          [
+            "HL225M",
+            null,
+            null
+          ],
+          [
+            "HL250M",
+            null,
+            null
+          ],
+          [
+            "HL260M",
+            null,
+            null
+          ],
+          [
+            "HL260M MK II",
+            null,
+            null
+          ],
+          [
+            "HL270M",
+            null,
+            null
+          ]
+        ]
+      }
+    ]
+  }
+]

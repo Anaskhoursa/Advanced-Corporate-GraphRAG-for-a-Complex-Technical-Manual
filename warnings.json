@@ -1,0 +1,432 @@
+[
+  {
+    "canonical_name": "warning_1__1.1",
+    "name": "[WARNING] Operating, installing, or maintaining the unit in any way…",
+    "full_text": "Operating, installing, or maintaining the unit in any way that is not covered in this manual could cause death, serious personal injury, or damage to the equipment and the surroundings. This includes any modification to the equipment or use of parts not provided by Xylem. If there is a question regarding the intended use of the equipment, please contact a Xylem representative before proceeding.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Operating, installing, or maintaining the unit in any way that is not covered in this manual could cause death, serious personal injury, or damage to the equipment and the surroundings. This includes any modification to the equipment or use of parts not provided by Xylem. If there is a question regarding the intended use of the equipment, please contact a Xylem representative before proceeding.",
+    "source_chunk_id": "1.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__1.5",
+    "name": "[WARNING] Do not crush, puncture, short, or expose batteries to a…",
+    "full_text": "Do not crush, puncture, short, or expose batteries to a temperature above +85°C (185°F). Only use batteries supplied by Xylem Inc. for replacement. Do not ingest batteries, chemical burn hazard. This product contains two replaceable lithium batteries. Consult the product instruction manual for replacement guidelines. All batteries must be disposed in an environmentally sound manner according to local regulations. Consult your local waste-management officials for information on how to safely dispose of used batteries.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Do not crush, puncture, short, or expose batteries to a temperature above +85°C (185°F). Only use batteries supplied by Xylem Inc. for replacement. Do not ingest batteries, chemical burn hazard. This product contains two replaceable lithium batteries. Consult the product instruction manual for replacement guidelines. All batteries must be disposed in an environmentally sound manner according to local regulations. Consult your local waste-management officials for information on how to safely dispose of used batteries.",
+    "source_chunk_id": "1.5",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__1.5",
+    "name": "[NOTICE] This product contains an external 5V DC power connector…",
+    "full_text": "This product contains an external 5V DC power connector which is currently not supported. Do not connect a 5V DC power connector to this product.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "This product contains an external 5V DC power connector which is currently not supported. Do not connect a 5V DC power connector to this product.",
+    "source_chunk_id": "1.5",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__1.6",
+    "name": "[CAUTION] Only use the manufacturer’s original spare parts to replace…",
+    "full_text": "Only use the manufacturer’s original spare parts to replace any worn or faulty components. The use of unsuitable spare parts may cause malfunctions, damage, and injuries as well as void the warranty.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "Only use the manufacturer’s original spare parts to replace any worn or faulty components. The use of unsuitable spare parts may cause malfunctions, damage, and injuries as well as void the warranty.",
+    "source_chunk_id": "1.6",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__2.2.1",
+    "name": "[DANGER] Crush Hazard Moving parts can entangle or crush. Always…",
+    "full_text": "Crush Hazard Moving parts can entangle or crush. Always disconnect and lock out power before servicing to prevent unexpected startup. Failure to do so could result in death or serious injury.",
+    "type": "WARNING",
+    "level": "DANGER",
+    "description": "Crush Hazard Moving parts can entangle or crush. Always disconnect and lock out power before servicing to prevent unexpected startup. Failure to do so could result in death or serious injury.",
+    "source_chunk_id": "2.2.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__2.2.3",
+    "name": "[CAUTION] Tip hazard. Make sure that the prop stands are lowered and…",
+    "full_text": "Tip hazard. Make sure that the prop stands are lowered and locked in place before disconnecting trailer.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "Tip hazard. Make sure that the prop stands are lowered and locked in place before disconnecting trailer.",
+    "source_chunk_id": "2.2.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__2.2.5",
+    "name": "[NOTICE] Never lift the unit by its cables or hose.",
+    "full_text": "Never lift the unit by its cables or hose.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Never lift the unit by its cables or hose.",
+    "source_chunk_id": "2.2.5",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__2.2.5",
+    "name": "[WARNING] Lift and handle the product carefully, using suitable…",
+    "full_text": "Lift and handle the product carefully, using suitable lifting equipment.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Lift and handle the product carefully, using suitable lifting equipment.",
+    "source_chunk_id": "2.2.5",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__2.3",
+    "name": "[NOTICE] Protect the product against humidity, heat sources, and…",
+    "full_text": "Protect the product against humidity, heat sources, and mechanical damage.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Protect the product against humidity, heat sources, and mechanical damage.",
+    "source_chunk_id": "2.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__2.3",
+    "name": "[NOTICE] Do not place heavy weights on the packed product.",
+    "full_text": "Do not place heavy weights on the packed product.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Do not place heavy weights on the packed product.",
+    "source_chunk_id": "2.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_3__2.3",
+    "name": "[NOTICE] Do not expose an idle pump to freezing conditions. Drain…",
+    "full_text": "Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump and connected pipes. Failure to do so can cause liquid to freeze and damage the pump.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump and connected pipes. Failure to do so can cause liquid to freeze and damage the pump.",
+    "source_chunk_id": "2.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__3.1.1",
+    "name": "[WARNING] California Proposition 65 warning! This product contains…",
+    "full_text": "California Proposition 65 warning! This product contains chemicals known to the state of California to cause cancer and birth defects or other reproductive harm.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "California Proposition 65 warning! This product contains chemicals known to the state of California to cause cancer and birth defects or other reproductive harm.",
+    "source_chunk_id": "3.1.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__4.1.1",
+    "name": "[WARNING] Fire hazard. Overloaded electrical circuits can cause…",
+    "full_text": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection.",
+    "source_chunk_id": "4.1.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__4.1.1",
+    "name": "[WARNING] Assembled units and their components are heavy. Failure to…",
+    "full_text": "Assembled units and their components are heavy. Failure to properly lift and support this equipment can result in serious physical injury and/or equipment damage. Lift equipment only at the specifically identified lifting points. Lifting devices such as eyebolts, slings, and spreaders must be rated, selected, and used for the entire load being lifted.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Assembled units and their components are heavy. Failure to properly lift and support this equipment can result in serious physical injury and/or equipment damage. Lift equipment only at the specifically identified lifting points. Lifting devices such as eyebolts, slings, and spreaders must be rated, selected, and used for the entire load being lifted.",
+    "source_chunk_id": "4.1.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__4.1.3",
+    "name": "[WARNING] Compressed Gas Hazard. Never apply a pressure to any cavity…",
+    "full_text": "Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the product to test for leakage. Pressurized air may cause parts to be propelled with force. Overpressurization can cause structural failure.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the product to test for leakage. Pressurized air may cause parts to be propelled with force. Overpressurization can cause structural failure.",
+    "source_chunk_id": "4.1.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__4.2.1",
+    "name": "[CAUTION] • Never draw piping into place by using force at the…",
+    "full_text": "• Never draw piping into place by using force at the flanged connections of the pump. This can impose dangerous strains on the unit and cause misalignment between the pump and driver. Pipe strain adversely affects the operation of the pump, which results in physical injury and damage to the equipment.\n• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side. This action can result in decreased performance, unexpected heat generation, and equipment damage.\n• Use pipes suited to the maximum working pressure of the pump. Failure to do so can cause the system to rupture, with the risk of injury.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "• Never draw piping into place by using force at the flanged connections of the pump. This can impose dangerous strains on the unit and cause misalignment between the pump and driver. Pipe strain adversely affects the operation of the pump, which results in physical injury and damage to the equipment.\n• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side. This action can result in decreased performance, unexpected heat generation, and equipment damage.\n• Use pipes suited to the maximum working pressure of the pump. Failure to do so can cause the system to rupture, with the risk of injury.",
+    "source_chunk_id": "4.2.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__4.2.2",
+    "name": "[CAUTION] Vary the capacity with the regulating valve in the…",
+    "full_text": "Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side. This action can result in decreased performance, unexpected heat generation, and equipment damage.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side. This action can result in decreased performance, unexpected heat generation, and equipment damage.",
+    "source_chunk_id": "4.2.2",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__4.4",
+    "name": "[WARNING] • Follow shaft alignment procedures in order to prevent…",
+    "full_text": "• Follow shaft alignment procedures in order to prevent catastrophic failure of drive components or unintended contact of rotating parts. Follow the coupling installation and operation procedures from the coupling manufacturer.\n• Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "• Follow shaft alignment procedures in order to prevent catastrophic failure of drive components or unintended contact of rotating parts. Follow the coupling installation and operation procedures from the coupling manufacturer.\n• Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.",
+    "source_chunk_id": "4.4",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__4.4",
+    "name": "[NOTICE] Proper alignment is the responsibility of the installer and…",
+    "full_text": "Proper alignment is the responsibility of the installer and the user of the unit. Check the pump-to-driver alignment before you operate the unit. Failure to do so can result in equipment damage or decreased performance.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Proper alignment is the responsibility of the installer and the user of the unit. Check the pump-to-driver alignment before you operate the unit. Failure to do so can result in equipment damage or decreased performance.",
+    "source_chunk_id": "4.4",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__4.4.4",
+    "name": "[NOTICE] Make sure to slide the driver evenly. Failure to do so can…",
+    "full_text": "Make sure to slide the driver evenly. Failure to do so can negatively affect horizontal angular correction.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Make sure to slide the driver evenly. Failure to do so can negatively affect horizontal angular correction.",
+    "source_chunk_id": "4.4.4",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__4.4.4",
+    "name": "[NOTICE] Use the specified permitted reading values unless specified…",
+    "full_text": "Use the specified permitted reading values unless specified otherwise by the coupling manufacturer. Failure to do so may result in reducing the reliability of the pump.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Use the specified permitted reading values unless specified otherwise by the coupling manufacturer. Failure to do so may result in reducing the reliability of the pump.",
+    "source_chunk_id": "4.4.4",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_3__4.4.4",
+    "name": "[NOTICE] You must use an equal amount of shims with each driver foot…",
+    "full_text": "You must use an equal amount of shims with each driver foot to prevent misalignment. Failure to do so can result in equipment damage or decreased performance.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "You must use an equal amount of shims with each driver foot to prevent misalignment. Failure to do so can result in equipment damage or decreased performance.",
+    "source_chunk_id": "4.4.4",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__5.1",
+    "name": "[DANGER] Never put your hand into the pump housing.",
+    "full_text": "Never put your hand into the pump housing.",
+    "type": "WARNING",
+    "level": "DANGER",
+    "description": "Never put your hand into the pump housing.",
+    "source_chunk_id": "5.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__5.1",
+    "name": "[WARNING] Fire hazard. Overloaded electrical circuits can cause…",
+    "full_text": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection.",
+    "source_chunk_id": "5.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_3__5.1",
+    "name": "[WARNING] • Failure to follow these precautions before you start the…",
+    "full_text": "• Failure to follow these precautions before you start the unit will lead to serious personal injury and equipment failure. • Explosion hazard. Do not short battery terminals together or damage the battery. • Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury. • Operating the pump in reverse rotation can result the contact of metal parts, heat generation, and breach of containment. • Do not operate the unit if the fuel tank has been damaged. • Do not operate the unit in an area where explosive gases are present. • Always operate the unit in a well ventilated area, preferably outdoors. • Do not refuel the engine while it is running. • Always wipe up spilled fuel and oil before operating the unit. • Drain oil and moisture residue daily or after each use from the air receiver located on the compressor. • Always inspect the conductors on electric motors before operation. • The unit and all components must be properly maintained. • Do not smoke while refilling the engine. • Do not refill an engine near open flames or sparks.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "• Failure to follow these precautions before you start the unit will lead to serious personal injury and equipment failure. • Explosion hazard. Do not short battery terminals together or damage the battery. • Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury. • Operating the pump in reverse rotation can result the contact of metal parts, heat generation, and breach of containment. • Do not operate the unit if the fuel tank has been damaged. • Do not operate the unit in an area where explosive gases are present. • Always operate the unit in a well ventilated area, preferably outdoors. • Do not refuel the engine while it is running. • Always wipe up spilled fuel and oil before operating the unit. • Drain oil and moisture residue daily or after each use from the air receiver located on the compressor. • Always inspect the conductors on electric motors before operation. • The unit and all components must be properly maintained. • Do not smoke while refilling the engine. • Do not refill an engine near open flames or sparks.",
+    "source_chunk_id": "5.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_4__5.1",
+    "name": "[NOTICE] • Verify the driver settings before you start any pump. •…",
+    "full_text": "• Verify the driver settings before you start any pump. • Familiarize yourself with the controls of the driver. • Flush and clear the system thoroughly to remove dirt or debris in the pipe system in order to prevent premature failure at initial startup. • Check all fluid levels.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "• Verify the driver settings before you start any pump. • Familiarize yourself with the controls of the driver. • Flush and clear the system thoroughly to remove dirt or debris in the pipe system in order to prevent premature failure at initial startup. • Check all fluid levels.",
+    "source_chunk_id": "5.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__5.1.2",
+    "name": "[WARNING] Always disconnect and lock out power to the driver before…",
+    "full_text": "Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.",
+    "source_chunk_id": "5.1.2",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__5.1.3",
+    "name": "[WARNING] Make sure to properly lubricate the bearings. Failure to do…",
+    "full_text": "Make sure to properly lubricate the bearings. Failure to do so can result in excess heat generation, sparks, and premature failure.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Make sure to properly lubricate the bearings. Failure to do so can result in excess heat generation, sparks, and premature failure.",
+    "source_chunk_id": "5.1.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__5.1.3",
+    "name": "[NOTICE] Be certain to check the greasing on a pump that has been…",
+    "full_text": "Be certain to check the greasing on a pump that has been out of service for a long period of time and re-grease if necessary.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Be certain to check the greasing on a pump that has been out of service for a long period of time and re-grease if necessary.",
+    "source_chunk_id": "5.1.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__5.1.4",
+    "name": "[NOTICE] • Some pumps are not supplied with a seal coolant.\n• Seal…",
+    "full_text": "• Some pumps are not supplied with a seal coolant.\n• Seal oil must be changed at the first sign of contamination.\n• Seal failure caused by the lack of correct and sufficient coolant will void the warranty.\n• The level of coolant varies due to the operating conditions of the pump. A slight loss of coolant under high suction lift conditions or slight emulsification of oil under low conditions is normal.\n• Check the level of coolant in the seal housing daily.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "• Some pumps are not supplied with a seal coolant.\n• Seal oil must be changed at the first sign of contamination.\n• Seal failure caused by the lack of correct and sufficient coolant will void the warranty.\n• The level of coolant varies due to the operating conditions of the pump. A slight loss of coolant under high suction lift conditions or slight emulsification of oil under low conditions is normal.\n• Check the level of coolant in the seal housing daily.",
+    "source_chunk_id": "5.1.4",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__5.2",
+    "name": "[CAUTION] • Vary the capacity with the regulating valve in the…",
+    "full_text": "• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side since this can result in decreased performance, unexpected heat generation, and equipment damage. \n• Do not overload the driver. Driver overload can result in unexpected heat generation and equipment damage. The driver can overload in these circumstances: \n  – The specific gravity of the pumped fluid is greater than expected. \n  – The pumped fluid exceeds the rated flow rate. \n• Make sure to operate the pump at or near the rated conditions. Failure to do so can result in pump damage from cavitation or recirculation. \n• Never operate a pump without a properly installed coupling guard. Personal injury will occur if you run the pump without a coupling guard. \n• Burn hazard. During operation various surfaces on the unit will become hot. To avoid burn injury, use heat protective gloves.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side since this can result in decreased performance, unexpected heat generation, and equipment damage. \n• Do not overload the driver. Driver overload can result in unexpected heat generation and equipment damage. The driver can overload in these circumstances: \n  – The specific gravity of the pumped fluid is greater than expected. \n  – The pumped fluid exceeds the rated flow rate. \n• Make sure to operate the pump at or near the rated conditions. Failure to do so can result in pump damage from cavitation or recirculation. \n• Never operate a pump without a properly installed coupling guard. Personal injury will occur if you run the pump without a coupling guard. \n• Burn hazard. During operation various surfaces on the unit will become hot. To avoid burn injury, use heat protective gloves.",
+    "source_chunk_id": "5.2",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__5.2",
+    "name": "[WARNING] Never operate any pumping system with a blocked suction and…",
+    "full_text": "Never operate any pumping system with a blocked suction and discharge. Operation, even for a brief period under these conditions, can cause confined pumped fluid to overheat, which results in a violent explosion. You must take all necessary measures to avoid this condition.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Never operate any pumping system with a blocked suction and discharge. Operation, even for a brief period under these conditions, can cause confined pumped fluid to overheat, which results in a violent explosion. You must take all necessary measures to avoid this condition.",
+    "source_chunk_id": "5.2",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_3__5.2",
+    "name": "[NOTICE] Avoid increased radial load. Failure to do so can cause…",
+    "full_text": "Avoid increased radial load. Failure to do so can cause stress on the shaft and bearings. Avoid heat build-up. Failure to do so can cause rotating parts to score or seize. Avoid cavitation. Failure to do so can cause damage to the internal surfaces of the pump.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Avoid increased radial load. Failure to do so can cause stress on the shaft and bearings. Avoid heat build-up. Failure to do so can cause rotating parts to score or seize. Avoid cavitation. Failure to do so can cause damage to the internal surfaces of the pump.",
+    "source_chunk_id": "5.2",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_4__5.2",
+    "name": "[NOTICE] Do not expose an idle pump to freezing conditions. Drain…",
+    "full_text": "Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump and connected pipes. Failure to do so can cause liquid to freeze and damage the pump.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump and connected pipes. Failure to do so can cause liquid to freeze and damage the pump.",
+    "source_chunk_id": "5.2",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__5.3",
+    "name": "[CAUTION] Observe the pump for vibration levels, bearing temperature,…",
+    "full_text": "Observe the pump for vibration levels, bearing temperature, and excessive noise. If normal levels are exceeded, shut down the pump and resolve the issue.\n• Monitor all gauges to ensure that the pump is running at or near rating and that the suction screen (when used) is not clogged.\n• These instructions describe operation of the unit with the system condition of suction lift. If the unit is being operated with the system condition of flooded suction, refer to Operate the unit with the system condition of flooded suction on page 30.\n• If the unit is driven by a diesel engine, check oil level and coolant level. Refer to the engine manual.\n• If the unit is driven by an electric motor, refer to the relevant control requirements.\n• If the unit includes Field Smart Technology (FST), then refer to the FST documentation.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "Observe the pump for vibration levels, bearing temperature, and excessive noise. If normal levels are exceeded, shut down the pump and resolve the issue.\n• Monitor all gauges to ensure that the pump is running at or near rating and that the suction screen (when used) is not clogged.\n• These instructions describe operation of the unit with the system condition of suction lift. If the unit is being operated with the system condition of flooded suction, refer to Operate the unit with the system condition of flooded suction on page 30.\n• If the unit is driven by a diesel engine, check oil level and coolant level. Refer to the engine manual.\n• If the unit is driven by an electric motor, refer to the relevant control requirements.\n• If the unit includes Field Smart Technology (FST), then refer to the FST documentation.",
+    "source_chunk_id": "5.3",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__6.1",
+    "name": "[DANGER] Electrical hazard sufficient to kill. Always disconnect and…",
+    "full_text": "Electrical hazard sufficient to kill. Always disconnect and lock out the power before you service the unit.",
+    "type": "WARNING",
+    "level": "DANGER",
+    "description": "Electrical hazard sufficient to kill. Always disconnect and lock out the power before you service the unit.",
+    "source_chunk_id": "6.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__6.1",
+    "name": "[WARNING] Fire hazard. Overloaded electrical circuits can cause…",
+    "full_text": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "Fire hazard. Overloaded electrical circuits can cause components to overheat. Make sure to use appropriate circuit protection.",
+    "source_chunk_id": "6.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_3__6.1",
+    "name": "[WARNING] • Pressurized device. Make sure that the internal pressure…",
+    "full_text": "• Pressurized device. Make sure that the internal pressure is relieved before you continue.\n• Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the product to test for leakage. Pressurized air may cause parts to be propelled with force.\nOverpressurization can cause structural failure.\n• Make sure that the pump is isolated from the system and that pressure is relieved before you disassemble the pump, remove plugs, open vent or drain valves, or disconnect the piping.\n• Maintenance and service must be performed by skilled and qualified personnel only.\n• Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.\n• Do not smoke while refilling the engine.\n• Do not refill an engine near open flames or sparks.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "• Pressurized device. Make sure that the internal pressure is relieved before you continue.\n• Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the product to test for leakage. Pressurized air may cause parts to be propelled with force.\nOverpressurization can cause structural failure.\n• Make sure that the pump is isolated from the system and that pressure is relieved before you disassemble the pump, remove plugs, open vent or drain valves, or disconnect the piping.\n• Maintenance and service must be performed by skilled and qualified personnel only.\n• Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.\n• Do not smoke while refilling the engine.\n• Do not refill an engine near open flames or sparks.",
+    "source_chunk_id": "6.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_4__6.1",
+    "name": "[CAUTION] • Allow all system and pump components to cool before you…",
+    "full_text": "• Allow all system and pump components to cool before you handle them to prevent physical injury.\n• A worn pump can have components that have very sharp edges. Wear protective gloves.\n• Wear protective clothing. The edges of the parts can be sharp.\n• Read all operation and maintenance manuals supplied with the pump assembly.\n• Some engine manufacturers require a break-in period before the 250 hour service. Refer to the engine operation and maintenance manual for the details of the break-in period.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "• Allow all system and pump components to cool before you handle them to prevent physical injury.\n• A worn pump can have components that have very sharp edges. Wear protective gloves.\n• Wear protective clothing. The edges of the parts can be sharp.\n• Read all operation and maintenance manuals supplied with the pump assembly.\n• Some engine manufacturers require a break-in period before the 250 hour service. Refer to the engine operation and maintenance manual for the details of the break-in period.",
+    "source_chunk_id": "6.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__7.1",
+    "name": "[DANGER] Electrical hazard sufficient to kill. Always disconnect and…",
+    "full_text": "Electrical hazard sufficient to kill. Always disconnect and lock out the power before you service the unit.",
+    "type": "WARNING",
+    "level": "DANGER",
+    "description": "Electrical hazard sufficient to kill. Always disconnect and lock out the power before you service the unit.",
+    "source_chunk_id": "7.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_2__7.1",
+    "name": "[WARNING] • Pressurized device. Make sure that the internal pressure…",
+    "full_text": "• Pressurized device. Make sure that the internal pressure is relieved before you continue.\n• Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the\nproduct to test for leakage. Pressurized air may cause parts to be propelled with force.\nOverpressurization can cause structural failure.\n• Make sure that the pump is isolated from the system and that pressure is relieved before\nyou disassemble the pump, remove plugs, open vent or drain valves, or disconnect the piping.\n• Maintenance and service must be performed by skilled and qualified personnel only.",
+    "type": "WARNING",
+    "level": "WARNING",
+    "description": "• Pressurized device. Make sure that the internal pressure is relieved before you continue.\n• Compressed Gas Hazard. Never apply a pressure to any cavity or chamber in the\nproduct to test for leakage. Pressurized air may cause parts to be propelled with force.\nOverpressurization can cause structural failure.\n• Make sure that the pump is isolated from the system and that pressure is relieved before\nyou disassemble the pump, remove plugs, open vent or drain valves, or disconnect the piping.\n• Maintenance and service must be performed by skilled and qualified personnel only.",
+    "source_chunk_id": "7.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_3__7.1",
+    "name": "[CAUTION] Allow all system and pump components to cool before you…",
+    "full_text": "Allow all system and pump components to cool before you handle them to prevent physical injury.\n• Read all operation and maintenance manuals supplied with the unit.",
+    "type": "WARNING",
+    "level": "CAUTION",
+    "description": "Allow all system and pump components to cool before you handle them to prevent physical injury.\n• Read all operation and maintenance manuals supplied with the unit.",
+    "source_chunk_id": "7.1",
+    "aliases": []
+  },
+  {
+    "canonical_name": "warning_1__8.3",
+    "name": "[NOTICE] • These values are only applicable for joints that are…",
+    "full_text": "• These values are only applicable for joints that are metal to metal, without gaskets.\n• Do not use these figures for fasteners, such as impeller bolts, that have had special figures quoted.",
+    "type": "WARNING",
+    "level": "NOTICE",
+    "description": "• These values are only applicable for joints that are metal to metal, without gaskets.\n• Do not use these figures for fasteners, such as impeller bolts, that have had special figures quoted.",
+    "source_chunk_id": "8.3",
+    "aliases": []
+  }
+]
