@@ -54,7 +54,7 @@ from retrieval import (
 
 # Bump this whenever you change test questions, prompts, or graph topology
 # in a way that invalidates prior results.
-CACHE_VERSION = 1
+CACHE_VERSION = 2
 
 # Where cached turns live. One JSON file, rewritten atomically after each
 # successful question.
@@ -283,7 +283,12 @@ Classify the user's query into exactly one of these categories:
 - "safety": asking about warnings, hazards, or safety precautions.
 - "comparison": comparing items, or asking for highest/lowest/best.
 - "troubleshoot": asking why something is wrong or how to fix a problem.
-- "out_of_scope": the query is not about the pump manual at all.
+- "out_of_scope": clearly unrelated to this equipment (general knowledge, other
+  software, personal tasks). The manual covers: the HL pump and its models, engine,
+  air compressor, batteries, gearbox, mechanical seal, the trailer (towing, brakes,
+  tires, prop stands), installation, piping, alignment, lubrication, maintenance
+  intervals, troubleshooting, specifications, torque values and safety warnings.
+  If the query touches ANY of these, it is NOT out_of_scope. When unsure, choose "factual".
 
 The query you receive is already self-contained. Classify it on its own
 merits without referencing prior conversation.
@@ -466,6 +471,11 @@ def classify_query_node(state: AgentState) -> dict:
 
     if intent not in INTENT_GRAPH_WEIGHTS:
         intent = "factual"
+    
+    if intent == "out_of_scope":
+        pipeline = state.get("_pipeline")
+        if pipeline is not None and pipeline.linker.link(query, drop_properties=False):
+            intent = "factual"
 
     return {"intent": intent}
 
@@ -634,9 +644,15 @@ def build_graph(pipeline: GraphRAGPipeline):
         state = dict(state)
         state["_pipeline"] = pipeline
         return generate_node(state)
+    
+    def bound_classify(state):
+        state = dict(state)
+        state["_pipeline"] = pipeline
+        return classify_query_node(state)
+
 
     builder.add_node("reformulate_query",  reformulate_query_node)
-    builder.add_node("classify",           classify_query_node)
+    builder.add_node("classify",           bound_classify)
     builder.add_node("retrieve",           bound_retrieve)
     builder.add_node("generate",           bound_generate)
     builder.add_node("verify",             verify_node)
@@ -1075,6 +1091,8 @@ def run_evaluation(
             ),
             "error": err,
             "from_cache": False,
+            "answer": answer,
+            "chunk_ids": list(retrieval.get("chunk_ids", []) or []),
         }
 
         per_turn.append(entry)
