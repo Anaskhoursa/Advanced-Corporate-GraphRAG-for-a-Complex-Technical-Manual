@@ -94,7 +94,7 @@ services:
       NEO4J_URI:  "bolt://neo4j:7687"
     stdin_open: true      # keep STDIN open for the REPL
     tty: true             # allocate a pseudo-TTY for the REPL
-    command: ["python", "graphagent.py"]
+    command: ["python", "run_assistant.py"]
 
 volumes:
   qdrant_data:
