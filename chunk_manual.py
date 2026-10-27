@@ -27,10 +27,6 @@ FOOTER_RE = re.compile(
     r"^(HL series Installation, Operation, and Maintenance Manual\s*\d*|"
     r"\d+\s*HL series Installation, Operation, and Maintenance Manual)\s*$"
 )
-WARNING_RE = "^\s*(WARNING|CAUTION|DANGER|NOTICE)\s*:?"
-STEPS_RE = ""
-
-
 def normalize(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip().lower()
 

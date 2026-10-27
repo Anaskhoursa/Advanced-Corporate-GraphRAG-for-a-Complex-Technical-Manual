@@ -152,7 +152,9 @@ Check `python evaluation.py --help` for supported evaluation options.
 
 ## Rebuild the data from a manual
 
-The source PDF is intentionally not included. Place a manual you are authorized to process at `manuals/hl_series_iom.pdf`, then run:
+The source PDF is intentionally not included. Place the HL Series pump manual you are authorized to process at `manuals/hl_series_iom.pdf`, then run:
+
+**Important:** `attach_tables_to_chunks.py` currently uses a hardcoded `TABLE_MAP` tailored to this HL Series pump manual. The rebuild sequence is not fully generic for arbitrary manuals; when processing a different manual, update and validate that mapping (or replace it with automatic table-to-section association) before trusting the resulting chunks.
 
 ```bash
 python extract_pdf_text_and_tables.py

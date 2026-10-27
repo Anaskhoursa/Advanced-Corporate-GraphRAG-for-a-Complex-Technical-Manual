@@ -39,8 +39,8 @@ OUTPUT_STEPS = "steps.json"
 CACHE_DIR = Path(os.getenv("LLM_CACHE_DIR", ".llm_cache"))
 CACHE_ENABLED = os.getenv("LLM_CACHE", "1") != "0"
 
-TEXT_PROMPT_VERSION = "text_v3"
-TABLE_PROMPT_VERSION = "table_v3"
+TEXT_PROMPT_VERSION = "text_v4"
+TABLE_PROMPT_VERSION = "table_v4"
 
 PRIMARY_MODEL = os.getenv("LLM_PRIMARY_MODEL", "openai/gpt-oss-120b")
 FALLBACK_MODEL = os.getenv("LLM_FALLBACK_MODEL", "openai/gpt-oss-20b")

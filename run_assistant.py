@@ -449,7 +449,14 @@ def verify_node(state: AgentState) -> dict:
         return {"verified": grounded, "verify_issues": issues}
     except Exception as e:
         print(f"[verify] verifier call failed: {e}")
-        return {"verified": True, "verify_issues": []}
+        return {
+            "verified": False,
+            "verify_issues": [{
+                "problem": "Verification failed",
+                "claim": "",
+                "explanation": "The answer could not be verified because the verifier call failed.",
+            }],
+        }
 
 
 # ---------------------------------------------------------------------------
@@ -723,6 +730,15 @@ def run_repl(graph):
 
         print()
         print("Assistant >")
+        if (
+            not final_state.get("verified", False)
+            and final_state.get("intent") != "out_of_scope"
+        ):
+            print(
+                "NOTICE: This answer could not be fully verified against the manual. "
+                "Do not rely on it for safety-critical decisions; check the source "
+                "manual or consult a qualified representative."
+            )
         print(final_state.get("answer", "(no answer)"))
         print()
         _print_turn_summary(final_state)

@@ -132,6 +132,7 @@ from qdrant_client.models import (
     VectorParams,
     SparseVectorParams,
     SparseIndexParams,
+    Modifier,
     PointStruct,
     SparseVector,
 )
@@ -533,7 +534,8 @@ def create_collection(client: QdrantClient) -> None:
     )
 
     sparse_config = SparseVectorParams(
-        index=SparseIndexParams(on_disk=False)
+        index=SparseIndexParams(on_disk=False),
+        modifier=Modifier.IDF,
     )
 
     client.create_collection(
@@ -774,7 +776,7 @@ def test_bm25_search(
     print("[test] BM25 sparse search")
     print(f"Query: {query}")
 
-    sparse_embedding = list(sparse_model.embed([query]))[0]
+    sparse_embedding = list(sparse_model.query_embed([query]))[0]
 
     results = client.query_points(
         collection_name=COLLECTION_NAME,

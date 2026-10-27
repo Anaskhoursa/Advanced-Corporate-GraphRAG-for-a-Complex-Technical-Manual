@@ -127,6 +127,47 @@ def call_model(model: str, system: str, user: str) -> str:
     return resp.choices[0].message.content
 
 
+def _normalize_whitespace(value: str) -> str:
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def validate_warnings(warnings: list, raw_text: str, chunk_id: str) -> list[dict]:
+    """Keep only warnings whose text and level are present in the raw source."""
+    normalized_raw = _normalize_whitespace(raw_text).casefold()
+    valid = []
+    for warning in warnings:
+        if not isinstance(warning, dict):
+            print(f"    [warning validation] chunk {chunk_id}: invalid warning record")
+            continue
+
+        level = str(warning.get("level") or "").strip().upper()
+        text = str(warning.get("text") or "").strip()
+        normalized_warning = _normalize_whitespace(text).casefold()
+        level_present = bool(
+            level and re.search(
+                rf"(?<![A-Z]){re.escape(level)}(?![A-Z])",
+                raw_text,
+                re.IGNORECASE,
+            )
+        )
+        text_present = bool(normalized_warning and normalized_warning in normalized_raw)
+
+        if not level_present or not text_present:
+            reasons = []
+            if not text_present:
+                reasons.append("warning text not found verbatim after whitespace normalization")
+            if not level_present:
+                reasons.append(f"level keyword {level or '(missing)'} not found in raw chunk")
+            print(
+                f"    [warning validation] chunk {chunk_id}: rejected extracted warning "
+                f"({'; '.join(reasons)}): {text[:160]!r}"
+            )
+            continue
+
+        valid.append(warning)
+    return valid
+
+
 def enrich_with_llm(chunk: dict) -> dict:
     """Return {warnings, steps, content}. Falls back to empty on failure."""
     user_prompt = build_user_prompt(chunk)
@@ -136,8 +177,13 @@ def enrich_with_llm(chunk: dict) -> dict:
         try:
             raw = call_model(model, SYSTEM_PROMPT, user_prompt)
             parsed = parse_json_response(raw)
+            warnings = validate_warnings(
+                parsed.get("warnings", []) or [],
+                chunk.get("content", ""),
+                str(chunk.get("id", "?")),
+            )
             return {
-                "warnings": parsed.get("warnings", []) or [],
+                "warnings": warnings,
                 "steps": parsed.get("steps", []) or [],
                 "content": parsed.get("content", "") or "",
             }

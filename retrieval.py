@@ -157,10 +157,13 @@ class EntityLinker:
         consumed_spans: list[tuple[int, int]] = []
 
         for surface, canonical in self._surface_to_canonical:
-            idx = q_lower.find(surface)
-            if idx == -1:
+            match = re.search(
+                rf"(?<![a-z0-9]){re.escape(surface)}(?![a-z0-9])",
+                q_lower,
+            )
+            if not match:
                 continue
-            span = (idx, idx + len(surface))
+            span = (match.start(), match.end())
             if any(not (span[1] <= s or span[0] >= e) for s, e in consumed_spans):
                 continue
             matched.append(canonical)
@@ -186,7 +189,7 @@ class HybridSearcher:
 
     def embed_query(self, query: str) -> tuple[list[float], models.SparseVector]:
         dense_vec = list(self.dense_model.embed([query]))[0].tolist()
-        sparse_emb = list(self.sparse_model.embed([query]))[0]
+        sparse_emb = list(self.sparse_model.query_embed([query]))[0]
         sparse_vec = models.SparseVector(
             indices=sparse_emb.indices.tolist(),
             values=sparse_emb.values.tolist(),
@@ -662,17 +665,17 @@ def build_context(
             parts.append(cite)
 
         if content.strip():
-            parts.append(_truncate(content, 1500))
+            parts.append(content.strip())
 
         # Steps that live in this chunk's community
-        chunk_steps = steps_by_chunk.get(cid, [])
+        chunk_steps = steps_by_chunk.get(cid) or c.get("steps") or []
         if chunk_steps:
             parts.append("")
             parts.append("Steps in this excerpt:")
             for s in chunk_steps:
                 marker = s.get("marker") or f"{s.get('step_number', '?')}."
-                text = (s.get("full_text") or s.get("name") or "").replace("\n", " ")
-                parts.append(f"  {marker} {_truncate(text, 400)}")
+                text = (s.get("full_text") or s.get("text") or s.get("name") or "").replace("\n", " ")
+                parts.append(f"  {marker} {text}")
 
         # Tables for this chunk
         tables_text = _render_chunk_tables(c.get("tables") or [])
@@ -682,14 +685,14 @@ def build_context(
             parts.append(tables_text)
 
         # Warnings that live in this chunk's community
-        chunk_warnings = warnings_by_chunk.get(cid, [])
+        chunk_warnings = warnings_by_chunk.get(cid) or c.get("warnings") or []
         if chunk_warnings:
             parts.append("")
             parts.append("Warnings in this excerpt:")
             for w in chunk_warnings:
                 level = w.get("level") or "WARNING"
-                text = (w.get("full_text") or w.get("name") or "").replace("\n", " ")
-                parts.append(f"  [{level}] {_truncate(text, 500)}")
+                text = (w.get("full_text") or w.get("text") or w.get("name") or "").replace("\n", " ")
+                parts.append(f"  [{level}] {text}")
 
         parts.append("")
 
@@ -789,6 +792,7 @@ class GraphRAGPipeline:
         """Retrieval only — no LLM call. Optionally override the graph weight."""
         linked_entities = self.linker.link(query, drop_properties=True)
         top20, query_vec = self.searcher.search(query, limit=TOP20)
+        top20 = [c for c in top20 if not _is_toc_or_front_matter(c)]
 
         relations, warnings, steps = [], [], []
         warnings_by_chunk, steps_by_chunk = {}, {}
@@ -814,19 +818,30 @@ class GraphRAGPipeline:
             if graph_weight is None:
                 graph_weight = compute_graph_weight(linked_entities)
 
-            final_chunks = rrf_fuse(
-                [top20, graph_candidates],
-                top_k=FINAL_TOP_K,
-                weights=[1.0, graph_weight],
+            n_graph = min(
+                max(0, round(graph_weight * 3)),
+                len(graph_candidates),
+                FINAL_TOP_K,
             )
-            final_chunks = [c for c in final_chunks if not _is_toc_or_front_matter(c)]
+            graph_selected = graph_candidates[:n_graph]
+            graph_selected_ids = {str(c["chunk_id"]) for c in graph_selected}
+            final_chunks = top20[: FINAL_TOP_K - n_graph] + graph_selected
+            selected_ids = {str(c["chunk_id"]) for c in final_chunks}
+            if len(final_chunks) < FINAL_TOP_K:
+                for candidate in top20:
+                    candidate_id = str(candidate["chunk_id"])
+                    if candidate_id not in selected_ids:
+                        final_chunks.append(candidate)
+                        selected_ids.add(candidate_id)
+                    if len(final_chunks) >= FINAL_TOP_K:
+                        break
 
             relations = expansion["relations"]
             warnings = expansion["warnings"]
             steps = expansion["steps"]
             warnings_by_chunk = expansion.get("warnings_by_chunk", {})
             steps_by_chunk = expansion.get("steps_by_chunk", {})
-            used_graph = bool(graph_candidates or warnings or steps)
+            used_graph = any(str(c["chunk_id"]) in graph_selected_ids for c in final_chunks)
 
         context = build_context(
             final_chunks, relations, warnings, steps,
@@ -855,6 +870,7 @@ class GraphRAGPipeline:
 
         # -- RRF #1: dense + sparse -> Top20 --------------------------
         top20, query_vec = self.searcher.search(query, limit=TOP20)
+        top20 = [c for c in top20 if not _is_toc_or_front_matter(c)]
 
         relations: list[dict] = []
         warnings: list[dict] = []
@@ -909,7 +925,7 @@ class GraphRAGPipeline:
             warnings_by_chunk = expansion.get("warnings_by_chunk", {})
             steps_by_chunk = expansion.get("steps_by_chunk", {})
 
-            used_graph = bool(graph_candidates or warnings or steps)
+            used_graph = any(str(c["chunk_id"]) in graph_selected_ids for c in final_chunks)
 
         # -- context + generation -------------------------------------
         context = build_context(

@@ -48,6 +48,7 @@ Community construction:
   the same chunk.
 """
 
+import argparse
 import json
 import re
 from collections import defaultdict
@@ -142,6 +143,12 @@ class Neo4jImporter:
 
     def close(self):
         self.driver.close()
+
+    def wipe_graph(self) -> None:
+        """Delete all graph data before a clean re-import."""
+        with self.driver.session() as session:
+            session.run("MATCH (n) DETACH DELETE n")
+        print("[neo4j] existing graph data cleared")
 
     # --------------------------------------------------------------
     # Schema / constraints
@@ -651,6 +658,14 @@ class Neo4jImporter:
 # ===================================================================
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Import extracted GraphRAG data into Neo4j.")
+    parser.add_argument(
+        "--wipe",
+        action="store_true",
+        help="Delete all existing Neo4j nodes and relationships before importing.",
+    )
+    args = parser.parse_args()
+
     print("=" * 64)
     print("HL SERIES PUMP MANUAL — NEO4J GRAPH IMPORTER")
     print("=" * 64)
@@ -672,6 +687,8 @@ def main() -> None:
 
     importer = Neo4jImporter(NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD)
     try:
+        if args.wipe:
+            importer.wipe_graph()
         importer.create_constraints()
         importer.import_entities(entities)
         importer.import_relations(relations)

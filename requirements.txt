@@ -1,5 +1,5 @@
 # --- Retrieval / embedding ---
-qdrant-client>=1.9,<2.0
+qdrant-client>=1.10,<2.0
 sentence-transformers>=3.0,<4.0
 fastembed>=0.3,<0.5
 numpy>=1.26,<3.0
